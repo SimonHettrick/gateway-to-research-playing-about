@@ -66,24 +66,43 @@ def limit_to_date(df, datestart, dateend):
 
     return df
 
+
 def sort_df(df):
 
     df.sort_values(by=['AwardPounds'], ascending=False, inplace=True, na_position='last')
 
     return df
 
+def combine_data(df):
+
+    # Add new column for full name and populate it
+    df['fullname'] = df['PISurname'] + ', ' + df['PIFirstName'] + ' ' + df['PIOtherNames']
+    # Group by funding amount based on the fullname and keep the Department for ease of finding the person
+    df_sum = df.groupby(['fullname', 'Department'])['AwardPounds'].sum().reset_index()
+    df_sum.columns = ['fullname', 'Department', 'aggregate funding']
+    df_sum.sort_values(by=['aggregate funding'], ascending=False, inplace=True, na_position='last')
+
+    return df_sum
 
 def main():
     """
     Main function to run program
     """
 
-    funder = 'AHRC'
+    # Set the variable to False if you don't want to partition the data on that variable
+
+    funder = False
     datestart = False
     dateend = False
-    institution = False
+    institution = 'University of Southampton'
+
+    # Set to True if you want the results ordered by size of award value
     sort_by_award = True
 
+    # Set to True if you want to create summary data where the awards per person are summed
+    combine_by_person = True
+
+    # Load up GtR data
     df = import_csv_to_df(DATASTORE, DATAFILE)
 
     df = convert_to_date(df)
@@ -100,9 +119,17 @@ def main():
     if sort_by_award != False:
         df = sort_df(df)
 
-    print(df)
+    if combine_by_person != False:
+        df_sum = combine_data(df)
 
+    #print(df)
+
+    # Export results
     export_to_csv(df, OUTPUT, 'GtR_analysed', False)
+
+    # If requested, export summary data
+    if combine_by_person != False:
+        export_to_csv(df_sum, OUTPUT, 'GtR_analysed_summary', False)
 
 if __name__ == '__main__':
     main()
