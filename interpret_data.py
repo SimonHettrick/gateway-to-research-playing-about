@@ -12,6 +12,7 @@ DATASTORE = './data/'
 DATAFILE = 'projectsearch-1611840195995.csv'
 OUTPUT = './output/'
 
+
 def import_csv_to_df(location, filename):
     """
     Imports a csv file into a Pandas dataframe
@@ -73,6 +74,7 @@ def sort_df(df):
 
     return df
 
+
 def combine_data(df):
 
     # Add new column for full name and populate it
@@ -91,10 +93,10 @@ def main():
 
     # Set the variable to False if you don't want to partition the data on that variable
 
-    funder = False
+    funder = 'AHRC'
     datestart = False
     dateend = False
-    institution = 'University of Southampton'
+    institution = False
 
     # Set to True if you want the results ordered by size of award value
     sort_by_award = True

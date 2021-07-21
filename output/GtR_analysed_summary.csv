@@ -1,294 +1,1422 @@
 fullname,Department,aggregate funding
-"Richards, David John",Faculty of Engineering & the Environment,41643000.0
-"Smith, Peter William",Statistical Sciences Research institute,13693870.0
-"Reed, Graham Trevor",Optoelectronics Research Centre (ORC),13468543.0
-"Webb, Jeremy Stephen",Sch of Biological Sciences,13345189.0
-"Coles, Simon John",School of Chemistry,12657735.0
-"Payne, David Neil",Optoelectronics Research Centre,12413608.0
-"Ramchurn, Sarvapali Dyanand",Sch of of Electronics and Computer Sci,11896883.0
-"Leonard, Pauline Carole","Sch of Economic, Social & Political Sci",11841418.0
-"Payne, David Neil",Optoelectronics Research Centre (ORC),10355489.0
-"Falkingham, Jane Cecelia",School of Social Sciences,8700524.0
-"Durrant, Gabriele B.","Sch of Economic, Social & Political Sci",8481919.0
-"Levitt, Malcolm Harris",School of Chemistry,7606816.0
-"Essex, Jonathan Wynne",School of Chemistry,7436517.0
-"Richardson, David John",Optoelectronics Research Centre (ORC),6810482.0
-"Falkingham, Jane Cecelia","Sch of Economic, Social & Political Sci",6734432.0
-"McHardy, Ian Michael",School of Physics and Astronomy,5339807.0
-"Brown, Andrew David",Sch of of Electronics and Computer Sci,4981301.0
-"Beeby, Stephen Paul",Sch of of Electronics and Computer Sci,4646650.0
-"Bahaj, A. S.",Faculty of Engineering & the Environment,4456226.0
-"Morris, Tim R",School of Physics and Astronomy,3883976.0
-"Nicholls, Robert James",Faculty of Engineering & the Environment,2955318.0
-"Richardson, David John",Optoelectronics Research Centre,2698577.0
-"Preston, Jonathan Mark",Faculty of Engineering & the Environment,2577497.0
-"Veres, Sandor Mihaly",Faculty of Engineering & the Environment,2552266.0
-"Frey, Jeremy Graham",School of Chemistry,2495257.0
-"Eason, Robert William",Optoelectronics Research Centre,2442763.0
-"Spearing, Simon Mark",Sch of Engineering,2314674.0
-"Whitby, Richard John",School of Chemistry,2222826.0
-"Dawson, Jonathan Ian",Human Development and Health,2175497.0
-"Proud, Christopher Gregory",School of Biological Sciences,2008382.0
-"Spearing, Simon Mark",School of Chemistry,1999099.0
-"Achterberg, Eric Pieter",School of Ocean and Earth Science,1807411.0
-"Beeby, Stephen Paul",Electronics and Computer Science,1629481.0
-"Ezard, Thomas Harold",School of Ocean and Earth Science,1615851.0
-"Kemp, Paul Stephen",Faculty of Engineering & the Environment,1581409.0
-"James, Patrick Alexander",Sch of Engineering,1521560.0
-"Smith, Peter George",Optoelectronics Research Centre (ORC),1509429.0
-"charlton, Martin David",Electronics and Computer Science,1440613.0
-"Read, Robert C",Clinical and Experimental Sciences,1425280.0
-"Brown, Andrew David",Electronics and Computer Science,1348536.0
-"Sandberg, Richard David",Faculty of Engineering & the Environment,1300616.0
-"Teagle, Damon Andrew",School of Ocean and Earth Science,1297879.0
-"Brown, Richard Charles",School of Chemistry,1284640.0
-"Underwood, Timothy James",Cancer Sciences,1275434.0
-"Mackenzie, Jacob Isa",Optoelectronics Research Centre (ORC),1264434.0
-"Fleming, Thomas Patrick",School of Biological Sciences,1263663.0
+"Chinkin, Christine Mary","Centre for Women, Peace and Security",15949293.0
+"Bakhshi, Hasan Mujtaba",Policy and Research,6355737.0
+"Evans, Graeme Lorenzo",London College of Fashion,5644115.0
+"Jones, Adele Diana",Sch of Human and Health Sciences,4303664.0
+"Bailey, Rebecca Mary",Education and Outreach,2209190.0
+"Wilson, Andrew Stephen",Sch of Life Sciences,2181204.0
+"Facer, Keri Lee",Education,2032640.0
+"Kiwan, Dina Jane",Education,2005633.0
+"Balch, Alex Richard",Politics,1937271.0
+"Chitty, Andrew John",Media Arts,1876789.0
+"Clancy, Thomas Owen",School of Humanities,1840048.0
+"Barton, Huw James",Sch of Archaeology and Ancient History,1750405.0
+"Burdett, Charles Frederick",School of Modern Languages,1732153.0
+"Cross, Eric Grahame",School of Arts and Cultures,1724969.0
+"Carruthers, Gerard Charles",School of Critical Studies,1704245.0
+"Thompson, Andrew Stuart",History,1680642.0
+"Laurie, Graeme Thomas",Sch of Law,1672317.0
+"Mithen, Steven John",Archaeology,1645301.0
+"Muir, Stephen Phillip",Sch of Music,1549319.0
+"Bales, Kevin Brian",Social Sciences,1505381.0
+"Sneath, David Andrews",Social Anthropology,1404583.0
+"Levinson, Martin Philip",Sch of Education and Lifelong Learning,1321352.0
+"Jones, Phil Ian","Sch of Geography, Earth & Env Sciences",1276626.0
+"Lloyd, Sarah Victoria",School of Humanities,1253955.0
+"Swallow, Deborah Anne",Curating,1253820.0
+"Williams, Gareth Howard",Sch of Social Sciences,1236035.0
+"Smith, Barry Crawford",School of Advanced Study,1235731.0
 "Keay, Simon James",Faculty of Humanities,1234979.0
-"Martin, David James",School of Geography,1232927.0
-"Moore, Christopher Mark",School of Ocean and Earth Science,1190421.0
-"Rychert, Catherine A",School of Ocean and Earth Science,1163295.0
-"Luo, Kai Hong",Faculty of Engineering & the Environment,1107094.0
-"Coldwell, Mark James",School of Biological Sciences,1106275.0
-"Rogers, Alexander Carl",Electronics and Computer Science,1096261.0
-"Palmer, Martin Ralph",School of Ocean and Earth Science,1090868.0
-"Nilsson, Lars Johan",Optoelectronics Research Centre,1065916.0
-"Langley, Graham John",School of Chemistry,1043468.0
-"Haitchi, Hans Michael",Clinical and Experimental Sciences,1035126.0
-"Burdge, Graham Charles",Human Development and Health,1033362.0
-"Rohling, Eelco Johan",School of Ocean and Earth Science,1031749.0
-"Eason, Robert William",Optoelectronics Research Centre (ORC),1025795.0
-"Freegarde, Timothy George",School of Physics and Astronomy,1011308.0
-"Vickers, James Alastair",School of Mathematics,1008642.0
-"Reed, Graham Trevor",Electronics and Computer Science,987045.0
-"Adams, Wendy Jo",School of Psychology,981017.0
-"James, Rachael Helen",School of Ocean and Earth Science,974923.0
-"White, Neil Maurice",Electronics and Computer Science,969982.0
-"Hayden, Brian Elliott",School of Chemistry,943283.0
-"Whiter, Daniel Keith",School of Physics and Astronomy,907815.0
-"Loh, Wei H",Optoelectronics Research Centre,899122.0
-"Roberts, Andrew Philip",School of Ocean and Earth Science,888916.0
-"Tompkins, Emma Louise",Sch of Geography & Environmental Sci,876346.0
-"Werner, Joern Martin",School of Biological Sciences,857281.0
-"Day, Graeme Matthew",School of Chemistry,839749.0
-"Please, Colin Peter",School of Mathematics,832692.0
-"Hector, Andrew Lee",School of Chemistry,830466.0
-"Wilson, Paul Alastair",School of Ocean and Earth Science,827415.0
-"Fedotov, Vassili Alexandrovich",Optoelectronics Research Centre,826438.0
+"Miles, Andrew Graham",Social Sciences,1233870.0
+"Steele, Thomas James",Institute of Archaeology,1201270.0
+"Levinson, Martin Philip",Finance,1187771.0
+"Harrison-Hall, Jessica Lucy",Asia,1141136.0
+"Grierson, Michael Stuart",Computing Department,1121361.0
+"Davis, Virginia Grace",Drama,1112802.0
+"Parker, David Charles",School of Philosophy Theology & Religion,1112715.0
+"Ormsby, Bronwyn Ann",Conservation,1092221.0
+"Shaughnessy, Nicola Kerrie",Sch of Arts,1045722.0
+"Trotter, David Andrew",European Languages,1020128.0
+"Endfield, Georgina Hope",Sch of Geography,1008821.0
+"Cooper, John Philip",History,962927.0
+"Hornby, Emma Christine",School of Arts,962426.0
+"Matthews, Roger John",Archaeology,951915.0
+"Sobers-Khan, Nur Anna Helene",Collections and Curation,950431.0
+"Snow, Stephanie Jane",School of Medical Sciences,926464.0
+"Grenby, Matthew Orville","School of English Literature,Language an",887660.0
+"Chitty, Andrew John",Loughborough University in London,885585.0
+"Schmidt, Thomas Christian",Sch of Music,883504.0
+"Rees Jones, Sarah Ruth",History,882732.0
+"Bales, Kevin Brian",Sch of Politics & International Relation,878957.0
+"Readman, Paul Andrew",History,865453.0
+"Prescott, Andrew John",College of Arts,856294.0
+"Ormrod, William Mark",History,853709.0
+"Gooday, Graeme John",Sch of Philosophy,852589.0
+"Chatterjee, Helen Jane",Museums and Collections,850417.0
+"Allison, Penelope Mary",Sch of Archaeology and Ancient History,847959.0
+"Holden, Claire Helen",Music Faculty,841904.0
+"Metcalfe, Alexander James",History,841731.0
+"Sloboda, John Anthony",Research and Enterprise,839909.0
+"Coates, Richard Aylmer","Fac Creative Arts, Humanities & Education",838802.0
+"Webber, Andrew John",German,831244.0
+"Crick, Julia Catherine",History,829808.0
+"Brown, Jessica Anne",Philos Anthrop and Film Studies,827771.0
+"Los, Bettelou Louise",Sch of Philosophy Psychology & Language,827418.0
+"Goldberg, David Martin",Archaeology,824617.0
+"Pormann, Peter Ernst",Arts Languages and Cultures,823425.0
+"Stirrup, David Francis",Sch of English,821911.0
+"Young, Christopher John",German,816392.0
+"Millen, Richard James",Research and Regional Services,815732.0
+"Mulcahy, Linda Mary",Law Faculty,815728.0
+"Daniels, Harry Richard",Education,813003.0
+"Kerr, Rachel Clare",War Studies,811727.0
 "Drabkin, William Morris",Faculty of Humanities,811233.0
-"Durrant, Gabriele B.",Statistical Sciences Research institute,804288.0
-"Maunder, Robert G.",Electronics and Computer Science,796239.0
-"Smith, Peter George",Optoelectronics Research Centre,784125.0
-"Fedotov, Vassili Alexandrovich",Optoelectronics Research Centre (ORC),783221.0
+"Daniels, Inge Maria",Sch of Anthropology & Museum Ethnography,808107.0
+"Tilley, Elizabeth Kate","Faculty of Wellbg, Educ & Lang Sci(WELS)",805223.0
+"McMullan, Gordon Alexander",English Language and Literature,804953.0
+"Schofield, Phillipp Richard",European Languages,802411.0
+"Treherne, Matthew James",School of Modern Languages and Cultures,800182.0
+"Parsons, Peter John",Classics Faculty,797134.0
+"Bird, Alexander James",School of Arts,796901.0
+"Gatrell, Peter William",Arts Languages and Cultures,796657.0
+"Bermel, Neil Halford",Sch of Language and Culture,794148.0
+"Gordon, Eleanor Jean",School of Social & Political Sciences,791844.0
+"Llewellyn, Mark Elliot",English,788083.0
+"Northcott, Michael Stafford",Sch of Divinity,788046.0
+"Bushell, Sally Caroline",English and Creative Writing,782735.0
+"Eliot, Simon Jonathan",Inst of English Studies,782409.0
 "Curry, Anne Elizabeth",Southampton Management School,782059.0
-"Spearing, Simon Mark",Faculty of Engineering & the Environment,781343.0
 "Pollard, Carl Joshua",School of Humanities,780830.0
-"Richardson, Edward Simon",Faculty of Engineering & the Environment,777741.0
+"Haffenden, John C",Inst of English Studies,767531.0
+"Cramp, Rosemary Jean",Archaeology,765405.0
+"Preston, Claire Elisabeth",English Drama American and Canadian Stu,765081.0
+"Holloway, Margaret Louise",Social Sciences,760856.0
+"Kelly, Catriona Helen",Medieval & Modern Languages Fac,756589.0
+"Clark, Timothy Thorburn",Asia,755320.0
+"Horak, Jana Mary",Research,746417.0
+"Schofield, Thomas Philip",Bentham Project,745757.0
+"Read, Stephen Louis",Philos Anthrop and Film Studies,741732.0
 "Brooks, Laura Jeanice",School of Humanities,741514.0
-"Smethurst, Joel Andrew",Faculty of Engineering & the Environment,715210.0
-"Mills, Rachel Ann",School of Ocean and Earth Science,687895.0
-"Trueman, Clive Nicholas",School of Ocean and Earth Science,677879.0
-"Smith, David Christopher",School of Physics and Astronomy,674194.0
-"Lewthwaite, Sarah Elizabeth",Southampton Education School,669563.0
-"Nilsson, Lars Johan",Optoelectronics Research Centre (ORC),659484.0
-"Davies, Donna Elizabeth",Inflammation Infection and Repair,649412.0
-"Annett, Amber Luella",School of Ocean and Earth Science,617293.0
-"Lohan, Maeve Carroll",School of Ocean and Earth Science,611554.0
-"Ottensmeier, Christian Hermann",Cancer Sciences,609334.0
-"Nandhakumar, Iris Schulz",School of Chemistry,609078.0
-"Mackay, Deborah JG",Human Genetics,606278.0
-"MacArthur, Benjamin Daniel",Development Origin of Health and Disease,606236.0
-"Carare, Roxana Octavia",Clinical and Experimental Sciences,604303.0
-"Godbold, Jasmin Annica",School of Ocean and Earth Science,602966.0
-"Purdie, Duncan Alastair",School of Ocean and Earth Science,599692.0
-"Wilcox, Keith Gareth",School of Physics and Astronomy,597061.0
-"Chong, Harold Meng",Electronics and Computer Science,584783.0
-"Jackman, Caitriona Mary",School of Physics and Astronomy,584311.0
-"Mackenzie, Jacob Isa",Optoelectronics Research Centre,545261.0
-"Thompson, David John",Faculty of Engineering & the Environment,542307.0
-"Gadola, Stephan Donat",Cancer Sciences,538750.0
-"Newland, Philip Leslie",School of Biological Sciences,530982.0
-"Nield, Joanna Marie",Sch of Geography & Environmental Sci,509794.0
-"Bohaty, Steve Michael",School of Ocean and Earth Science,505489.0
-"Bader, Daniel Lawrence",Sch of Health Sciences,502895.0
-"Davies, Donna Elizabeth",Medicine,499713.0
-"James, Patrick Alexander",Faculty of Engineering & the Environment,493581.0
-"Simpson, David Martin",Faculty of Engineering & the Environment,480639.0
-"Bressloff, Neil W",Faculty of Engineering & the Environment,474977.0
-"Chapman, Mark Andrew",Sch of Biological Sciences,473142.0
-"Wells, Neil Christopher",School of Ocean and Earth Science,473088.0
-"Copley, Jonathan Timothy",School of Ocean and Earth Science,467055.0
-"Burdge, Graham Charles",Development Origin of Health and Disease,463006.0
-"Evans, Nicholas David",Human Development and Health,449172.0
+"Rabett, Ryan John",Sch of Natural and Built Environment,741414.0
+"Richmond, Oliver Paul",Social Sciences,739330.0
+"Boyce, Sonia Elaine",CCW Grad School,737416.0
+"Wright, Tom Fitzpatrick",Sch of English,729819.0
+"Wessels, Bridgette Anne",Geography Politics and Sociology,725448.0
+"Berry, Richard Ross",School of Social & Political Sciences,722147.0
+"Vale, Malcolm Graham",History Faculty,721073.0
+"Bowman, Alan Keir",Classics Faculty,719354.0
+"Blunt, Alison Mary",Geography,719214.0
+"Lindley, Phillip Graham",History of Art and Film,718801.0
+"Preston, Claire Elisabeth",English,717479.0
+"Jackson, Louise Ainsley","Sch of History, Classics and Archaeology",711627.0
+"Jackson, Peter Darron",School of Humanities,711198.0
+"Bulag, Uradyn Erden",Social Anthropology,711196.0
+"Rippon, Stephen John",Archaeology,708228.0
+"Davis, Jim Thomas","Sch of Theatre, Perform & Cult Poli Stud",690309.0
+"Koch, John Thomas",Centre for Adv. Welsh and Celtic Studies,689167.0
+"D'Ayala, Dina Francesca",Architecture and Civil Engineering,688213.0
+"Salvesen, Alison Grace",Oriental Institute,687482.0
+"Dean, Jeffrey John",ADM Birmingham Conservatoire,683712.0
+"Lass, Roger George",English Language,683369.0
+"Saunders, Graham James",Film Theatre and Television,677861.0
+"Iriarte, Jose Antonio",Archaeology,675223.0
+"Petrie, Duncan James",Theatre Film and TV,665129.0
+"Walsh, Kevin James",Archaeology,664541.0
+"Gildea, Robert Nigel",History Faculty,661311.0
+"SMITH, Roland Ralph",Classics Faculty,657233.0
+"Gray, Peter Henry",Sch of History and Anthropology,656600.0
+"Sneath, David Andrews",Archaeology & Anthropology,655757.0
+"Magowan, Fiona Caroline","Sch of Hist, Anthrop, Philos & Politics",652550.0
+"Idler, Annette Iris",Politics and International Relations,652325.0
+"Ebert, Philip Alexander",Philosophy,652305.0
+"Alexander, Claire Elice",Social Sciences,646173.0
+"Hamilton, Susan Dorothy",Institute of Archaeology,642619.0
+"Brown, Matthew David",School of Modern Languages,638996.0
+"Salway, Richard William",History,638926.0
+"Questier, Michael Corrie",History,633365.0
+"Ponting, Matthew James",Archaeology Classics and Egyptology,631406.0
+"Hoskin, Philippa Mary",School of History and Heritage,626679.0
+"Aarts, Sebastiaan Henri Lucas Marie",English Language and Literature,626524.0
+"Carpenter, David Arscott",History,624735.0
+"Bradley, Richard William",Ctr for Study of Phil & Natural Soc Sci,611261.0
+"Schoch, Richard Walter","Sch of Arts, English and Languages",607311.0
+"Sinclair, Alison Seaton",Spanish and Portuguese,600764.0
+"Coates, Richard Aylmer",Fac of Arts Creative Ind and Education,597267.0
+"Lyon, John M",School of Humanities,590672.0
+"Martin, Wayne Michael",School of Philosophy and Art History,588661.0
+"Lury, Karen Emelia",School of Culture & Creative Arts,584152.0
+"Williamson, Magnus Guy",School of Arts and Cultures,583773.0
+"Schofield, Phillipp Richard",History and Welsh History,583329.0
+"Freeman, James George",School of Humanities,580403.0
+"Thynne, Elizabeth Jane","Sch of Media, Film and Music",578384.0
+"Swain, Simon Charles",Classics & Ancient History,577933.0
+"Astbury, Katherine Michele",French Studies,576694.0
+"Outhwaite, Ben Mathew",Cambridge University Library,575978.0
+"Scott-Baumann, Alison Frances","Languages, Cultures, and Linguistics",568726.0
+"Burn, Andrew Nicholas","Culture, Communication and Media",565383.0
+"Roberts, Jonathan C.",Sch of Computer Science,564709.0
+"Shuttleton, David Ewen",School of Critical Studies,561873.0
+"Clackson, James Peter",Classics,558671.0
+"Popple, Simon Edward",School of Media & Communication,557866.0
+"Gosler, Andrew Graham",Zoology,554392.0
+"Muller, Frank Lorenz",History,549224.0
+"Iversen, Margaret Dana",School of Philosophy and Art History,545730.0
+"Reynolds, Deirdre Aine",Arts Languages and Cultures,545247.0
+"Hazell, Robert John",Political Science,534031.0
+"Riley, Mykaell S",Westminster Sch of Arts,533032.0
+"Hopkins, Peter Eric",Geography Politics and Sociology,526935.0
+"Clayton, Martin Richard",Music,522023.0
+"Taylor, Claire Louise",Modern Languages and Cultures,518841.0
+"McCullough, Peter Eugene",English Faculty,514445.0
+"Weyde, Tillman Erik",Computing,513320.0
+"Bell, Melanie Jane","School of English Literature,Language an",509904.0
+"Hoerl, Christoph Peter",Philosophy,508091.0
+"Hugh-Jones, Stephen Philip",Social Anthropology,507739.0
+"Anderson, David McBeath",Area Studies,504642.0
+"Cloonan, Martin John",School of Culture & Creative Arts,503861.0
+"Lines, David Alan",Centre for the Study of the Renaissance,500324.0
+"Cormier, Kearsy Annette",Experimental Psychology,500154.0
+"Wessels, Bridgette Anne",College of Social Sciences,498124.0
+"Aldrich, Richard James",Politics and International Studies,496007.0
+"Smith, Justin Timothy",School of Creative Arts Film and Media,492306.0
+"Jones, Colin David",History,492146.0
+"May, Steven W.","Sch of English Lit, Lang and Linguistics",491897.0
+"Bull, Marcus Graham",School of Humanities,491115.0
+"Madge, Nicola Jane",Sch of Health Sciences and Social Care,490237.0
+"Prescott, Andrew John",Digital Humanities,484896.0
+"Treadwell, W Luke",Oriental Institute,484276.0
+"Oppenheimer, Joshua Lincoln",Westminster Sch of Arts,484035.0
+"Oldfield, Jonathan Duncan","Sch of Geography, Earth & Env Sciences",482051.0
+"Phillips, Richard Simon",Geography,480221.0
+"Fulford, Michael Gordon",Archaeology,478367.0
+"Smith, Justin Timothy","Sch of Film, Media and Communication",477089.0
+"Squire, Vicki Jane",Politics and International Studies,475523.0
+"Reif, Stefan C",Asian and Middle Eastern Studies,474899.0
+"Cushion, Stephen Antony",Journalism Media and Cultural Studies,468991.0
+"Scullion, Adrienne Clare",School of Culture & Creative Arts,468751.0
+"Gellner, David Nicholas",Social & Cultural Anthropology,464953.0
+"Pollard, Alan Mark",Archaeology and History of Art Res Lab,463103.0
+"Crang, Philip Andrew",Geography,462724.0
+"Williams, Christopher Mark",School of Arts and Humanities,462120.0
+"Heddon, Deirdre Elizabeth",College of Arts,458809.0
+"Ditchfield, Simon Richard",English and Related Literature,457645.0
+"Chapman, Jane Louise",School of English and Journalism,456372.0
+"Clough, David Lennard",Theology and Religious Studies,455062.0
+"Shepherd, Elizabeth Jane",Information Studies,454213.0
+"Hodgson, Katharine Merwinna",Modern Languages Russian,450757.0
+"Shemilt, Elaine Katherine",Contemporary Art Practice,450473.0
+"Ladd, D Robert",Sch of Philosophy Psychology & Language,449708.0
+"Dance, Richard William",Anglo-Saxon Norse and Celtic,448418.0
 "Curry, Anne Elizabeth",Faculty of Humanities,446291.0
-"Smyth, Neil Robert",School of Biological Sciences,445316.0
-"Marshall, John Edward",School of Ocean and Earth Science,442470.0
-"Thurner, Philipp Johannes",Faculty of Engineering & the Environment,437728.0
-"Ezard, Thomas Harold",Unlisted,430336.0
-"Boyd, Stephen William",Faculty of Engineering & the Environment,424754.0
-"Sunley, Peter John",Sch of Geography & Environmental Sci,419978.0
-"Williams, Lorraine Elizabeth",School of Biological Sciences,416696.0
-"Kropholler, Peter Hendrikus",Sch of Mathematical Sciences,413452.0
-"Webb, Jeremy Stephen",School of Biological Sciences,406874.0
-"Langat, Gloria Chepngeno","Sch of Economic, Social & Political Sci",404130.0
-"East, J Malcolm",School of Biological Sciences,397024.0
+"Brown, Alison Kay",School of Social Science,445153.0
+"Schmidt, Thomas Christian",Arts Languages and Cultures,441395.0
+"Postgate, John Nicholas",McDonald Institute Archaeological Res.,440462.0
+"Sims-Williams, Patrick Philip",Welsh,439887.0
+"Taylor, Mark Richard",Sheffield Methods Institute,439882.0
+"Rodgers, Cory Cory",International Development,434440.0
+"Jackson, Robert Mason",Institute of Education,434025.0
+"Corbett, John Blair",School of Critical Studies,429996.0
+"Hamlett, Jane Elizabeth",History,428241.0
+"Carrette, Jeremy Richard",Sch of European Culture and Languages,427736.0
+"britton, derek alan",Sch of Philosophy Psychology & Language,426599.0
+"Sakr, Naomi Janet",Faculty of Media Arts and Design,424031.0
+"Bevan, Andrew Haydn",Institute of Archaeology,423046.0
+"Fedorowich, Edward Kent","Fac Creative Arts, Humanities & Education",423013.0
+"Ainsworth, Peter Francis",French,420992.0
+"Robinson, Joanna Kate",School of English,418636.0
+"Watkinson, David Edward","Sch of History, Archaeology & Religion",417920.0
+"Gameson, Richard Graham",History,417633.0
+"Corrigan, Karen Patrice","School of English Literature,Language an",417178.0
+"Hurley, Susan Lynn",School of Arts,415352.0
+"Stock, Jay Theodore",Biological Anthropology,414477.0
+"Scally, John Joseph",Information Services,412691.0
+"Lambert, Stephen David","Sch of History, Archaeology & Religion",411262.0
+"Aizlewood, Robin Peter",School of Slavonic & East European Studi,410942.0
+"King, Victor Terence",School of Modern Languages and Cultures,410310.0
+"Brand, Ralf Gregor","Environment, Education and Development",409427.0
+"Rand, Michael Chaim",Asian and Middle Eastern Studies,406417.0
+"Alexander, Marc Gabriel",School of Critical Studies,406351.0
+"Pritchard, Duncan Henry",Sch of Philosophy Psychology & Language,404384.0
+"Cook, Matthew David",History Classics and Archaeology,404130.0
+"Gordon, Robert John",Pinter ctr for Performance and C Writing,402998.0
+"Edbury, Peter William","Sch of History, Archaeology & Religion",398057.0
 "McGavin, John Johnston",Faculty of Humanities,396880.0
-"Pike, Alistair William",Faculty of Humanities,393030.0
-"Hain, Mathis Paul",School of Ocean and Earth Science,392607.0
+"Higbee, William Edward",Modern Languages French,396714.0
+"Lease, Bryce Salisbury","Drama, Theatre and Dance",396588.0
+"Porter, Laraine Dawn",School of Media and Communication,395153.0
+"Biggs, Michael Anthony",Social Sciences Arts and Humanities RI,394548.0
 "Earl, Graeme Peter",Faculty of Humanities,389149.0
+"Harper, John Martin",Sch of Music,385533.0
+"Booth, Marilyn Louise",Sch of Literature Languages & Culture,385380.0
+"Shennan, Stephen James",Institute of Archaeology,380249.0
+"Trower, Shelley Jane",English and Creative Writing,379434.0
+"Rayner, Samantha Julian",Information Studies,379247.0
+"Dalrymple, Mary Elizabeth",Linguistics Philology and Phonetics,378907.0
+"Lynch, Gordon Alexander",Sch of European Culture and Languages,377834.0
 "Jones, Andrew Meirion",Faculty of Humanities,371774.0
+"Conroy, James Charles",School of Education,371638.0
 "Clarke, Catherine A",Faculty of Humanities,369762.0
-"Sahu, Sujit Kumar",School of Mathematics,365643.0
-"Shenoi, Ramanand Ajit",Faculty of Engineering & the Environment,365174.0
-"Fleming, Thomas Patrick",Unlisted,364324.0
-"Worsley, Peter Richard",Sch of Health Sciences,357481.0
-"Garner, Matthew James",School of Psychology,353116.0
-"Lewis, Rohan Murray",Human Development and Health,350289.0
-"Lewis, Rohan Murray",Development Origin of Health and Disease,343554.0
-"Nightingale, Adrian Matthew",Faculty of Engineering & the Environment,327827.0
-"Wilson, Philip Alan",Faculty of Engineering & the Environment,326519.0
-"Reston, Timothy John",School of Ocean and Earth Science,316720.0
-"Minns, Russell Stephen",School of Chemistry,310055.0
-"Onggo, Bhakti Satyabudhi",Southampton Business School,305087.0
-"Bavykin, Dmitry V.",Faculty of Engineering & the Environment,303406.0
-"Wardrop, Nicola Ann",School of Geography,298858.0
-"Cagampang, Felino Ramon",Development Origin of Health and Disease,297008.0
-"Scaife, Anna Margaret",School of Physics and Astronomy,295463.0
-"Currie, Christine Susan",Sch of Mathematical Sciences,285246.0
-"Shawe-Taylor, John Stewart",Electronics and Computer Science,283365.0
-"Edwards, Richard John",School of Biological Sciences,282807.0
-"Wilson, Richard Edward",Faculty of Engineering & the Environment,276251.0
+"Mawer, Deborah Hazel",ADM Birmingham Conservatoire,369266.0
+"Cragoe, Matthew Frind",Social Sciences Arts and Humanities RI,369259.0
+"Newey, Katherine Mary",English Drama American and Canadian Stu,368503.0
+"Balmer, Brian Leslie",Science and Technology Studies,368356.0
+"Horrell, David George",Theology,366954.0
+"Brooks, Nicholas Peter",History and Cultures,366679.0
+"Ekblom, Paul John",Central Saint Martin's College,366060.0
+"Flinn, Andrew David",Information Studies,364063.0
+"McCleery, Alison Margaret","School of Life, Sport & Social Sciences",363485.0
+"Burrows, Simon Frank",School of History,362340.0
+"Ladyman, James Anthony",School of Arts,361998.0
+"Saunders, Clare Elaine",Politics,361743.0
+"Prescott, Andrew John",School of Critical Studies,361441.0
+"Goode, Ian Simon",School of Culture & Creative Arts,359154.0
+"McLuskie, Kathleen Elizabeth",Humanities,358435.0
+"Sorabji, Richard Rustom",Philosophy,354229.0
+"Dixon, Deborah Phyllis",Inst of Geography and Earth Sciences,350548.0
+"Sheils, William Joseph",History,349897.0
+"Moseley, Rachel Sara",Film & Television Studies,348176.0
+"Neeleman, Adriaan Dirk",Phonetics and Linguistics,344707.0
+"Dampier, Helen Catherine",Cultural Studies and Humanities,342699.0
+"Chatterjee, Helen Jane",Genetics Evolution and Environment,339578.0
+"Coyles, David James",Sch of Architecture and Design,339453.0
+"Reid, Steven John",College of Arts,338236.0
+"Divall, Colin Michael",History,337464.0
+"Bailey, Helen Lousie",Institute for Research in Education,337016.0
+"Fennell-Clark, Barbara Anne",School of Language and Literature,334574.0
+"Hopkins, Carl Peter",Architecture,334164.0
+"Ashton, Jenna Carine",Arts Languages and Cultures,333955.0
+"Seaford, Richard Antony",Classics and Ancient History,333341.0
+"Dawson, Jane Elizabeth",Sch of Divinity,332601.0
+"Jones, Francis Redvers",School of Modern Languages,332145.0
+"Bate, Andrew Jonathan",English and Comparative Literary Studies,331246.0
+"Gaffney, Vincent Lawrence",History and Cultures,329745.0
+"Coyne, Richard David",Edinburgh College of Art,328297.0
+"Christie, Neil John",Sch of Archaeology and Ancient History,324990.0
+"Smith, Richard Michael",Geography,324536.0
+"Williamson, Philip Alan",History,323865.0
+"Taberner, Stuart James","Sch of Languages, Cultures and Societies",323411.0
+"Fensham, Rachel Susan",Dance Film and Theatre,323262.0
+"Williams, Alexander John",Sch of Arts & Media,320893.0
+"John, Juliet Victoria",English,319919.0
+"Olson, Elizabeth Ann",Sch of Geosciences,317020.0
+"Croucher, Karina Theresa",Sch of Life Sciences,316741.0
+"Fletcher, Robert Stephen",History,316591.0
+"Boswell, Matthew James",School of English,316471.0
+"Wyver, John Frederick",Faculty of Media Arts and Design,316209.0
+"Pahl, Kate Heron",Education,315956.0
+"McClure, Ian Patrick",Hamilton Kerr Institute,314105.0
+"Weindling, Paul Julian",Faculty of Humanities and Social Sci,306530.0
+"Bell, Lucy Amelia",Languages and Translation Studies,305998.0
+"Swift, Ellen Victoria",Sch of European Culture and Languages,305252.0
+"Light, Ann Maxine","Fac of Arts, Design and Social Sciences",305243.0
+"Huws, Bleddyn Owen",Welsh,304830.0
+"Williams, Paul Martin",School of Arts,300412.0
+"Davies, Matthew Ivor",UCL Institute for Global Prosperity,298525.0
+"Hegarty, James Marcel","Sch of History, Archaeology & Religion",296697.0
+"Payne, Leigh Ann",Area Studies,296259.0
+"Gibson, Ruth Elizabeth",Art and Design,296050.0
+"Andrews, Frances Elizabeth",History,292499.0
+"Brooker, Peter John",Postgrad Sch of Crit Theory & Cult Stud,290045.0
+"Laven, David Spencer",Arts Languages and Cultures,289305.0
+"Noakes, Richard John",History,288526.0
+"Melville, Charles P",Asian and Middle Eastern Studies,287975.0
+"Silkstone, Francis William",Music,285276.0
+"Armstrong, Jackson Webster","School of Divinity, History and Philosop",284273.0
+"Mallinson, William James","Languages, Cultures, and Linguistics",284227.0
+"Gibbon, Sarah Jane",Orkney College UHI,284081.0
+"Loughrey, Joan Margaret",Law,281516.0
+"Walker, Gillian Claire",Sch of Systems Engineering,281055.0
+"Willis, David William",Linguistics Philology and Phonetics,279951.0
+"Cathcart, Brian John",Sch of Humanities,279018.0
+"Parker, David Charles",Law School,278888.0
+"Redgate, Christopher Fredrick",Research,277479.0
+"Campbell, Donald Murray",Sch of Physics and Astronomy,277240.0
+"Burn, Lucilla Mary",Fitzwilliam Museum,277102.0
+"Dix, Alan John",Computing & Communications,274983.0
+"Willneff, Elizabeth Anne",Chem Eng and Analytical Science,274583.0
+"Spicer, Andrew Howard",Fac of Arts Creative Ind and Education,273453.0
+"Hughes, Mary Patrica",Admissions and Partnership Services,272223.0
+"Pils, Eva Maria",Dickson Poon School of Law Departments,271289.0
+"Westgarth, Mark Wilfred",Sch of Fine Art History of Art&Cult Stud,268630.0
+"Stringer, Keith John",History,268231.0
+"Boyce, Sonia Elaine",Wimbledon College of Art,263327.0
+"O'Connor, Theresa Mary","Drama, Theatre and Performance",261792.0
+"Wiggins, Alison Eve",School of Critical Studies,260472.0
+"Sands, Philippe Joseph",Laws,260445.0
+"Hammill, Faye Louise",English,260392.0
 "Headley, Erin Jean",Faculty of Humanities,260354.0
-"Middleton, Stuart Edward",Sch of of Electronics and Computer Sci,260036.0
-"Gregg, Aiden Patrick",School of Psychology,257311.0
-"Sunley, Peter John",School of Geography,250904.0
-"Mercer, Catherine Louise",Human Genetics,248884.0
-"Himsworth, Matthew David",School of Physics and Astronomy,246391.0
-"Dolia, Alexander N.",Statistical Sciences Research institute,242619.0
-"Kashani, Mohammad Mehdi",Faculty of Engineering & the Environment,242455.0
-"McConnell, Brendon Ian","Sch of Economic, Social & Political Sci",242299.0
-"Gray, William Peter",Clinical Neurological Sciences,235946.0
+"Wells, William Harry",Human Communication Sciences,259621.0
+"Frith, Lucy Jane",Public Health and Policy,258812.0
+"Highmore, Ben John","Sch of Media, Film and Music",258142.0
+"Wolffe, John Russell",Religious Studies,257220.0
+"Eagleton, Catherine Teresa",Coins and Medals,256158.0
+"Plastow, Jane Elizabeth",School of English,255216.0
+"Millar, Robert McColl",School of Language and Literature,254877.0
+"Porter, Venetia Ann",Middle East,253998.0
+"Marsden, Alan Alexander",Lancaster Inst for the Contemporary Arts,253963.0
+"Hopkins, Timothy John","Sch of Media, Film and Music",253756.0
+"Carmona, Matthew Peter",Bartlett Sch of Planning,252509.0
+"Rea, Lauren June",Sch of Language and Culture,251407.0
+"McKerrell, Simon Alasdair",School of Arts and Cultures,248714.0
+"Gardner, Katy Jane",Sch of Global Studies,244567.0
+"Roberts, Hugh Gerald",Modern Languages French,244376.0
+"MacKian, Sara Catrin",Faculty of Health & Social Care,244275.0
+"D'Ayala, Dina Francesca",Civil Environmental and Geomatic Eng,243017.0
+"Ashley, Susan L.T.","Fac of Arts, Design and Social Sciences",242369.0
+"MacRaild, Donald MacLeod","Fac of Arts, Design and Social Sciences",240939.0
+"Ward, Matthew Charles",History,240262.0
+"Bressey, Tanya Caroline",Geography,239011.0
+"Dibble, Jeremy Colin",Music,238944.0
+"Whitehead, Christopher Mark",School of Arts and Cultures,238459.0
+"Towheed, Syed Shafquat",Faculty of Arts and Social Sci (FASS),237521.0
+"Sanders, Valerie Ruth",Humanities,236552.0
 "Rice, Stephen James",Faculty of Humanities,235309.0
-"Freeman, Christopher Thomas",Electronics and Computer Science,234915.0
-"Saunders, Clare Elaine",School of Social Sciences,225602.0
-"Dolan, Sam Richard",School of Mathematics,222182.0
-"Byrne, Christopher David",Development Origin of Health and Disease,219674.0
-"Biedermann, Stefanie Gisela",Statistical Sciences Research institute,218431.0
-"Parry, Jane Margaret",Southampton Business School,217116.0
-"Doncaster, C Patrick",School of Biological Sciences,215894.0
-"Pearson, Peter John",School of Biological Sciences,212815.0
+"Vickers, Peter John",Philosophy,235123.0
+"Ferguson, Julia Miller",Research and Enterprise Office,234845.0
+"Banks, Joseph Caxton","Sch of Social Sci, Humanities & Language",234484.0
+"McInnes, Colin John",International Politics,233945.0
+"Gordon, Frederick Bruce",History,232630.0
+"Watt, John William",Religious and Theological Studies,231373.0
+"Plumley, Yolanda Meritxell",Centre for Medieval Studies,231359.0
+"Routledge, Bruce Edward",Archaeology Classics and Egyptology,231020.0
+"Williamson, Tom Matthew",History,230675.0
+"Glendinning, Hugo Frederic",Drama,230369.0
+"Meadows, Andrew Robert",Classics Faculty,229284.0
+"Cleminson, Richard Mark",School of Modern Languages and Cultures,228325.0
+"Sales, Rosemary Ann",School of Law,227881.0
+"Millett, Martin John",Classics,227373.0
+"Williams, Alexander John",Sch of Design,226719.0
+"Tillotson, Jennifer Ruth",Central Saint Martin's College,225828.0
+"Mazel, Aron David",School of Arts and Cultures,225508.0
+"Brigstocke, Julian John",Cardiff School of Planning and Geography,225426.0
+"French, Steven Richard",Sch of Philosophy,224065.0
+"Gready, Paul Richard",Centre for Applied Human Rights,222315.0
+"Shaw, Philip John",English,219812.0
+"Zeshan, Ulrike Andrea",Int Inst for Sign Lang and Deaf Studies,219543.0
+"Keegan-Phipps, Simon Geoffrey",Music,219285.0
+"Taberner, Stuart James",School of Modern Languages and Cultures,218191.0
+"Chitnis, Rajendra Anand",School of Modern Languages,217286.0
+"Davison, Jonathan William",Faculty,216247.0
+"Glynn, Ruth Sarah",School of Modern Languages,214653.0
+"Mackey, Sally Patricia",Faculty,214257.0
+"Bryan-Kinns, Nicholas Johnathan",Sch of Electronic Eng & Computer Science,214020.0
+"Payne, Leigh Ann",Sociology,213407.0
+"Dillon, Brian Gerard",Sch of English,212913.0
+"Macduff, Colin Neil",School of Design,212466.0
 "Crouch, Joseph Anthony",Faculty of Humanities,212152.0
-"Everitt, Hazel Anne",Community Clinical Sciences,211482.0
-"Dyne, Stuart James",Faculty of Engineering & the Environment,207002.0
-"Channon, Andrew Amos","Sch of Economic, Social & Political Sci",202297.0
+"Keiger, John Frederick",Politics and International Studies,212019.0
+"Reid, Colin Turriff",Law,211879.0
+"Oldfield, Jonathan Duncan",School of Social & Political Sciences,211223.0
+"Rees, Gethin Powell",Collections and Curation,209418.0
+"Ansari, Ali Massoud",History,207763.0
+"Turrell, Jessica Beth",Fac of Arts Creative Ind and Education,206141.0
+"Thacker, Andrew John",Sch of Arts and Humanities,204154.0
+"Staelens, Yvette Julia",Faculty of Science and Technology,203632.0
+"Prizeman, Oriel Elizabeth",Welsh School of Architecture (ARCHI),203351.0
+"Edelman, Joshua Andrew",School of Art,203344.0
+"Grierson, Michael Stuart",Music,202718.0
+"Smithies, James Dakin",King's Ditigal Laboratory,202516.0
+"Harland, Robert George",Creative Arts,202384.0
+"Butler, Beverley Jane",Institute of Archaeology,202340.0
+"McCabe, Helen Ruth",Sch of Politics & International Relation,202329.0
+"Eissa Barroso, Francisco Antonio",Arts Languages and Cultures,202307.0
+"Johnson, Michael Pierre",The Innovation School,202184.0
+"Churchill, David Christopher",Law,202116.0
+"Seaman, Andrew Peter",School of Humanities,202084.0
+"Hill, Tracey Elizabeth",School of Humanities,202048.0
+"Gilmore, Charlotte Louise",Academic Development,202033.0
+"Smith, Jos James","Literature, Drama and Creative Writing",202012.0
+"Nevola, Fabrizio James",Architecture and Civil Engineering,201734.0
 "Colpus, Eve Catherine",School of Humanities,201392.0
-"Borgh, Magnus Olof",School of Mathematics,199381.0
-"Harris, Bernard Jonathan",School of Social Sciences,198528.0
+"Thomas, Emily Anne",Philosophy,201365.0
+"Knight-Hill, Andrew Peter","Creative Prof. & Digital Arts, FACH",201306.0
+"Roberts, Sean Geraint",School of Arts,201173.0
+"Sutcliffe-Braithwaite, Florence Anne",History,200871.0
+"Cresswell, Rosemary Beatrice",Histories,200711.0
+"Mahlberg, Michaela Agnes",School of English,200437.0
+"Sterling, Colin Philip",Institute of Archaeology,200110.0
+"Harper-Scott, John Paul",Music,199853.0
+"Hordern, Joshua William",Theology and Religion Faculty,199257.0
+"Newton, Victoria Louise","Faculty of Wellbg, Educ & Lang Sci(WELS)",198964.0
+"Purkis, William John",History and Cultures,198847.0
+"Krause, Jonathan James",History Faculty,198809.0
+"Bramwell, Richard John",Sch of Psychology Criminology Sociology,198732.0
+"Webb, Nicholas James",Architecture,198646.0
+"Prichard, Rebecca Sophie",Lancaster Inst for the Contemporary Arts,198371.0
+"Hernández, Gleider Ignacio",Law,197697.0
+"Goldhill, Simon D",Resrch in the Arts Soc Scs & Humanities,197659.0
+"Jones, Justin Rhys",Theology and Religion Faculty,197449.0
+"Gomez, Juan Carlos",Psychology,197041.0
+"Elsenbroich, Corinna Julia",Sociology,196940.0
+"Sermon, Paul Sylvester",School of Art,195616.0
+"Gibson, Marion Heather",English,195380.0
+"Wyatt, David Reginald","Sch of History, Archaeology & Religion",195008.0
+"Hulme, Thomas Joseph","Sch of Hist, Anthrop, Philos & Politics",194983.0
+"Spencer, Catherine Elizabeth",Sch of Art History,194785.0
+"Kennedy, Chloë Jane",Sch of Law,194361.0
+"Holden, Claire Helen",Music,193151.0
+"Willis, David William",Linguistics,193122.0
+"Skeates, Robin Gerald",Archaeology,192935.0
+"Chodzko, Adam Alexander",Sch of Arts,192058.0
+"Milsom, David John",Sch of Music,191913.0
+"Gibb, Sophie Catherine",Philosophy,191050.0
+"Robinson, David Wayne",Sch of Forensic and Investigative Sci,190916.0
+"McDonald, Katherine Louise",Classics and Ancient History,190830.0
+"Merchant, Paul Rumney",School of Modern Languages,190227.0
+"Schneider, Tatjana Claudia",Architectural Studies,189452.0
+"Jones, Ruth Louisa",Fac of Arts Creative Ind and Education,189373.0
+"Lease, Bryce Salisbury",Drama and Theatre,189017.0
+"Parrinder, John Patrick",English Literature,188901.0
+"Local, John Knox",Language and Linguistic Science,188610.0
+"Altehenger, Jennifer Elisabeth",History,188581.0
 "van Besouw, Rachel Marijke",Faculty of Engineering & the Environment,188548.0
-"Lim, Sean Hua",Cancer Sciences,188331.0
-"Self, Rodney Harold",Faculty of Engineering & the Environment,188230.0
+"Fuggle, Sophie Elisabeth",Sch of Arts and Humanities,188169.0
 "Whiting, Daniel James",Faculty of Humanities,187838.0
-"Graf, Erich William",School of Psychology,187618.0
-"Bretherton, David Tom",School of Humanities,185721.0
-"Thomas, Trevor Glyn",Faculty of Engineering & the Environment,184184.0
-"Childress, Michael Joseph",School of Physics and Astronomy,182510.0
-"Self, Jay E",Human Genetics,181969.0
-"Liversedge, Simon Paul",School of Psychology,169054.0
-"Ruwanpura, Kanchana Nimali",School of Geography,168081.0
-"Goldup, Stephen Michael",School of Chemistry,167342.0
-"Turnpenny, Lee William",Human Genetics,163709.0
-"Hickman, Anna Elizabeth",School of Ocean and Earth Science,160828.0
-"Fowell, Andrew James",Clinical and Experimental Sciences,157058.0
-"Milton, Edward James",School of Geography,155657.0
-"Palmer, Keith T",Community Clinical Sciences,154038.0
-"Parker, Joel Douglas",School of Biological Sciences,151672.0
-"Sobocinski, Pawel Maria",Electronics and Computer Science,147285.0
-"Walls, Andrew Finlay",Inflammation Infection and Repair,144940.0
-"Hart, Jane K",School of Geography,143525.0
-"Bader, Daniel Lawrence",Faculty of Health Sciences,142773.0
-"Crolla, John Anthony",Human Genetics,135618.0
+"Kabir, Ananya Jahanara",School of English,187116.0
+"Agius, Dionisius A.",Arab and Islamic Studies,187064.0
+"Steele, Melanie Sarah",Graduate Office,186779.0
+"Thomas, Sarah Elizabeth",History,186484.0
+"Klinkner, Melanie Josefine",Faculty of Media and Communication,185750.0
+"Carr, Indira Mahalingam",Business School,185717.0
+"Sabiescu, Amalia Georgiana",Loughborough University in London,184963.0
+"Black, Jonathan Andrew",Sch of Art and Design History,184924.0
+"Whyton, Tony Robert",ADM Birmingham Sch of Media,184760.0
+"Donahue, Randolph Edmund",Sch of Life Sciences,184681.0
+"Houghton, Hugh Alexander",School of Philosophy Theology & Religion,183822.0
+"Bickle, Penny Fiona",Archaeology,183728.0
+"Williams, John Robert",Sch of Philosophy,183397.0
+"Jones, Nicholas Kenneth",School of Philosophy Theology & Religion,180800.0
+"Phillips, Martin Peter",Geography,180010.0
+"Munro, Eileen Margaret",Ctr for Study of Phil & Natural Soc Sci,179548.0
+"Hill, Christopher Robert",Faculty of Business and Society,178356.0
+"Siewierska, Anna Maria",Linguistics and English Language,177601.0
+"Bretherton, David Tom",School of Humanities,177422.0
+"Dilley, Andrew Richard","School of Divinity, History and Philosop",177245.0
+"Pooley, William George",School of Humanities,176847.0
+"Hedges, Robert Ernest",Archaeology and History of Art Res Lab,176483.0
+"Tallontire, Anne Marie",School of Earth and Environment,175768.0
+"Harvey, Penelope Margaret",Social Sciences,175658.0
+"Ward, Mitzi Jane",Research Support Services,175326.0
+"Lark, Richard Murray",Sch of Biosciences,175135.0
+"Dancer, Helen Elizabeth","Sch of Law, Politics and Sociology",174142.0
+"Atkinson, Harriet Rachel",Sch of Humanities,173637.0
+"Tattersdill, William James",English Drama American and Canadian Stu,172325.0
+"Dikomitis, Lisa Anne-Marie",Inst for Primary Care and Health Sci,172077.0
+"Kelemen, Mihaela Ligia",Research Institute for Social Sciences,171473.0
+"Skoulding, Zoë Catherine","Sch of Language, Literature & Linguistic",170002.0
+"Leyshon, Catherine Sylvia",Geography,169934.0
+"Gerritsen, Anne Tjerkje",History,168922.0
+"Hegarty, James Marcel",Religious and Theological Studies,168714.0
+"Cragoe, Matthew Frind","Sch of History, Art History & Philosophy",167724.0
+"Waters, Catherine Mary",Sch of English,167155.0
+"Barker, Elton Thomas",Classical Studies,166783.0
+"Carr, Indira Mahalingam",School of Law,166722.0
+"Fomin, Maxim Sergeevitch",Sch of Languages & Literature,166592.0
+"McCormick, Leanne Vivian","Sch of English, History and Politics",166418.0
+"scragg, donald george",Arts Languages and Cultures,166339.0
+"Morris, Lynda Edith",Research and Knowledge Transfer,165669.0
+"Clarke, John Wedgwood",English,165200.0
+"Hoskins, Andrew David",Adam Smith Research Foundation,165158.0
+"Firnhaber-Baker, Justine Marie",History,163314.0
+"Howard, Rosaleen Elizabeth",School of Modern Languages,162981.0
+"Downham, Clare Elizabeth",Irish Studies,162437.0
+"Watson, Debbie Lynette",Sch for Policy Studies,161560.0
+"Hansen, Gitte Marianne",School of Modern Languages,160357.0
+"Linn, Andrew Robert","Sch of English Lit, Lang and Linguistics",160204.0
+"Osborne, Peter Gordon",Sch of Humanities,160162.0
+"Hartley, Anthony Frank",School of Modern Languages and Cultures,159293.0
+"Chow, Broderick D. V.",Arts and Humanities,159045.0
+"Nesbitt, Eleanor Margaret",Institute of Education,158580.0
+"Kember, Joe Edward",English,158287.0
+"Spicer, Andrew Howard",Faculty of Creative Arts,158099.0
+"Varley, Peter Justin",West Highland College UHI,157603.0
+"Dobney, Keith Mark",Archaeology,157442.0
+"Lynch, Gordon Alexander",Psychosocial Studies,157322.0
+"Daybell, James Richard",Sch of Humanities & Performing Arts,157187.0
+"Galloway, Susan Mary",School of Culture & Creative Arts,156530.0
+"Ioris, Antonio Antonio",Cardiff School of Planning and Geography,155540.0
+"Moore, Thomas Hugh",Archaeology,155408.0
+"Brockington, Grace Ellen",School of Humanities,152756.0
+"Hyams, Keith David",Politics,152675.0
+"Dittmer, Jason Neal",Geography,152541.0
+"McLean, Sheila Ann",School of Law,152219.0
+"Mills, Jon Philip",Sch of Engineering,151759.0
+"Breen, Colin Patrick",Sch of Environmental Sciences,151607.0
+"Whitney, Bronwen Sarah",Fac of Engineering and Environment,151387.0
+"Muers, Rachel Ellen",Theology,151263.0
+"Pinchbeck, Daniel McGuire",Creative Technologies,151067.0
+"Cullinane, Michael Patrick","Fac of Arts, Design and Social Sciences",150143.0
+"Sutton, Deborah Ruth",History,149256.0
+"Bramwell, Richard John",Criminology,148448.0
+"Udeaja, Chika Emmanuel","Sch of Science,Engineering & Environment",148277.0
+"Evans, Adrian Anthony",Sch of Life Sciences,147663.0
+"Jefferies, Janis Kay",Constance Howard Res & Resrch Ctr in Tex,146873.0
+"Brown, Andre George",Architecture,146544.0
+"Hoskins, Andrew David",Sociology,146524.0
+"Curtis, Elizabeth Mary",School of Education,146443.0
+"Haselgrove, Colin Cliff",Sch of Archaeology and Ancient History,146374.0
+"Wagner, Corinna Michelle",English,146172.0
+"Pearson, Jessica Ann",Archaeology Classics and Egyptology,145289.0
+"Linch, Kevin Barry",School of History,145090.0
+"Fer, Briony Annette",History of Art,144460.0
+"Nubi, Timothy Olugbenga",Cntr for Housing & Sustainable Develop,143820.0
+"Williams, Paul Gerald",English,143778.0
+"Deignan, Alice Helen",Sch of Education,143297.0
+"Megarry, William Peter",Sch of Natural and Built Environment,143157.0
+"Batchelor, Kathryn Elizabeth",French and Francophone Studies,142722.0
+"Johnston, Stephen Andrew",Museum of the History of Science,142084.0
+"Mackenzie, Simon Ross",School of Social & Political Sciences,141398.0
+"Thonemann, Peter James",Classics Faculty,140998.0
+"Baragwanath, Nicholas John",Music,140461.0
+"Bayliss, Alexandra Louise",Biological and Environmental Sciences,139257.0
+"Ó Briain, Lonán Cillian",Sch of Humanities,138633.0
+"Lawlor, Robin Sean",Inter-Disciplinary Ethics Applied,137753.0
+"Crang, Michael A",Geography,137408.0
+"Fell, Alison Sarah",School of Modern Languages and Cultures,137324.0
+"Bottoms, Stephen James",School of English,136238.0
+"Pillai, Nicolas Raviraj",ADM Birmingham Sch of Media,135478.0
+"Jamroziak, Emilia Maria",School of History,135419.0
+"Bell, Melanie Jane",School of Media & Communication,133443.0
+"Skoulding, Zoë Catherine",Sch of English,132496.0
 "Brooks, Laura Jeanice",Faculty of Humanities,132369.0
-"Hoenig, Sebastian F",School of Physics and Astronomy,125714.0
-"Ward, Ben Andrew",School of Ocean and Earth Science,124076.0
-"Calvo-Pardo, Hector Fernando",School of Social Sciences,111815.0
+"Taylor, Claire Louise","Cultures, Languages and Area Studies",130841.0
+"Rose, Jeffrey Ian",History and Cultures,129650.0
+"Howard, Deborah Janet",History of Art,128746.0
+"Wareham, Andrew Franklin","Drama, Theatre and Performance",128661.0
+"Jennings, Benjamin Ralph",Sch of Life Sciences,128364.0
+"Osman, Ashraf Sir El Khatim",Engineering,127664.0
+"studdert, david handcock",Sch of Social Sciences,127148.0
+"Devilat, Bernadette Marie",Sch of Archit Design and Built Env,126818.0
+"Campbell, Alastair McIntosh",Drama,126810.0
+"Rose, Jeffrey Ian",Faculty of Health and Life Sciences,126284.0
+"Wiggins, Alison Eve",College of Arts,125923.0
+"Angelelli, Claudia Viviana",Sch of Social Sciences,125259.0
+"Ormrod, William Mark",Centre for Medieval Studies,124245.0
+"Pendlebury, John Robert",Architecture Planning and Landscape,123769.0
+"Schaefer, Kerrie Vanessa",Drama,123748.0
+"Ruiz, Pollyanna Elizabeth","Sch of Media, Film and Music",123407.0
+"Islam, Muhammad Azizul",University of Aberdeen Business School,123312.0
+"Clarke, Catherine A",School of Arts and Humanities,123116.0
+"Trimble, Gail Christiana",Classics Faculty,123057.0
+"Reid, Colin William",History,123048.0
+"Gow, Andrew JAMES",War Studies,121160.0
+"Bradley, Richard William",Philosophy,120007.0
+"Fitzmaurice, Susan Mary",English,119814.0
+"Cameron, Shona Mairi",Research and Knowledge Exchange Services,118620.0
+"Taylor, Stephen John",History,118600.0
+"Gilmore, Charlotte Louise",Business School,117234.0
+"Gooday, Graeme John",School of PRHS,116593.0
+"Thiara, Nicole W.",Sch of Arts and Humanities,116236.0
+"Munt, Sally R","Sch of Media, Film and Music",115958.0
+"Randall, Bryony Clare",School of Critical Studies,115247.0
+"Neave, Caroline Fiona",Research Student Administration,115033.0
+"Bodman, Sarah Louise",Fac of Arts Creative Ind and Education,114377.0
+"Liggins, David Edward",Social Sciences,113518.0
+"MacRaild, Donald MacLeod","Sch of English, History and Politics",111528.0
+"Midgelow, Vida Lesley",School of the Arts,110100.0
 "Johnson, Matthew Harry",Faculty of Humanities,110100.0
+"Sumner, Mark Paul",Sch of Design,108571.0
 "Curry, Anne Elizabeth",Southampton Law School,108447.0
+"Venn, Edward John",Sch of Music,108306.0
+"Bunn, Stephanie Joan",Philos Anthrop and Film Studies,107493.0
+"Mooney, James Robert",Sch of Music,107381.0
+"Endfield, Georgina Hope","Sch of Histories, Lanuages and Cultures",106354.0
+"Murray, Lesley Patricia",Sch of Applied Social Sciences,106040.0
+"Torrens, George Edward",Loughborough Design School,106007.0
 "Oldfield, John Richard",Faculty of Humanities,105631.0
-"Lewis, Hugh Gifford",Sch of Engineering,104624.0
-"Weymouth, Gabriel David",Faculty of Engineering & the Environment,103723.0
-"Burness, Timothy Charles",School of Mathematics,102374.0
-"Young, Edward Andrew",Faculty of Engineering & the Environment,101837.0
-"Harvey, Nicholas Castell",Human Development and Health,101404.0
-"Boltryk, Rosemary June",Faculty of Engineering & the Environment,101084.0
-"Walker, John Christopher",Faculty of Engineering & the Environment,100634.0
-"Price, Jonathan Hugh Vaughan",Optoelectronics Research Centre,100626.0
-"Peters, Ivo Remco",Faculty of Engineering & the Environment,100545.0
-"Lee, Seung Seo",School of Chemistry,99252.0
-"Clubley, Simon Keith",Faculty of Engineering & the Environment,94400.0
-"Garwood, Eliza Gwendoline","Sch of Economic, Social & Political Sci",93623.0
-"Richardson, Giles William",School of Mathematics,92300.0
-"Lenton, Timothy Michael",School of Ocean and Earth Science,91583.0
-"Davies, Donna Elizabeth",Clinical and Experimental Sciences,89116.0
-"Altman, Tessa Talia","Sch of Economic, Social & Political Sci",88238.0
-"Mason, Robin Anthony",School of Social Sciences,85913.0
-"Smith, Paul Anthony","Sch of Economic, Social & Political Sci",81639.0
+"Cross, Jamie Joseph",Sch of Social and Political Science,104900.0
+"Green, Anna Elizabeth",History,104898.0
+"Shilton, Siobhan Maria",School of Modern Languages,102878.0
+"Topham, Jonathan Richard",Sch of Philosophy,102732.0
+"Campbell, Hazel Jane",Research Office,101143.0
+"Siebers, Johan Isaac",Sch of Journalism and Digital Comms,100011.0
+"Hackney, Fiona Anne",The School of Communication Design,99851.0
+"King, Peter John",History,98440.0
+"Bright, Nigel Geoffrey",Faculty of Education,97875.0
+"Mueller-Johnson, Katrin Ursula",Criminology,97814.0
+"Cohen, Gidon Daniel",Government and International Affairs,97570.0
+"Newbury, Darren Mark",BIAD Visual Communication,97326.0
+"Kuti, Elizabeth Jane",Literature Film and Theatre Studies,97148.0
+"Finkel, Irving Leonard",Middle East,96480.0
+"Sweetman, Rebecca Jane",Sch of Greek Latin and Ancient History,96095.0
+"Belford, Patricia Clare",Sch of Art & Design,95925.0
+"Ashbee, Catherine Julia",Registry,95740.0
+"Webber, Jonathan Mark",Sch of English Communication and Philos,95560.0
+"Daniels, Rhiannon Jane",School of Modern Languages,95200.0
+"Wolffe, John Russell",Faculty of Arts,95071.0
+"Pahl, Kate Heron",Faculty of Education,94483.0
+"Darling, James Richard","Sch of the Env, Geography & Geosciences",94291.0
+"Schwarz, Katarina Louise",Sch of Politics & International Relation,94277.0
+"Cantor, David James",School of Advanced Study,93412.0
+"Jackson, Neil Mckerrow",Architecture,93183.0
+"Krell, Mary Agnes","Sch of Media, Film and Music",92716.0
+"Parker, Michael Richard",Sch of Journalism and Digital Comms,92403.0
+"Boase-Beier, Jean Frances","Literature, Drama and Creative Writing",92141.0
+"Bradley, Richard John",Archaeology,91984.0
+"Johnston, Robert Alexander",Archaeology,91721.0
+"Schofield, Tom William",School of Arts and Cultures,91532.0
+"Zuntz, Ann-Christin Ann-Christin",Sch of Social and Political Science,90988.0
+"Douglas, Caryn Jane",University of York,90729.0
+"Caleshu, Anthony Peter",Sch of Humanities & Performing Arts,89698.0
+"Leeder, Karen Jane",Medieval & Modern Languages Fac,88657.0
+"Eagleton, Catherine Teresa",Library,88365.0
+"Finglass, Patrick John",Classics,88237.0
+"Coffey, John Robert",Sch of Historical Studies,88192.0
+"Whitley, David Andrew",Faculty of Education,87971.0
+"Pinnington, Bruce Douglas",Management School,86771.0
+"Wilson Vasquez, Goya Irene",School of Modern Languages,86590.0
+"Hadley, Dawn Marie",Archaeology,86449.0
+"Daly, Ruth Susan",Finance Office,85954.0
+"Cockin, Katharine Mary",Humanities,85751.0
+"Parry, Benjamin James",Bath School of Art,85251.0
+"Carter, Cynthia Luanne",Journalism Media and Cultural Studies,85013.0
+"WYLIE, JOHN WILLIAM",Geography,84827.0
+"Morgan, Kevin Andrew",Social Sciences,84768.0
+"Mottram, Stewart James",English,84694.0
+"Gibson, Ruth Elizabeth",Ctr for Dance Research,84378.0
+"Nevola, Fabrizio James",Modern Languages Italian,84151.0
+"Flynn, Alex James",Anthropology,84069.0
+"Kelemen, Mihaela Ligia",Faculty of Humanities & Social Sciences,83948.0
+"Branch, Adam Raphael",Politics and International Studies,83301.0
+"Evans, Malcolm David",Law,83250.0
+"PITE, Ralph Robert",School of Humanities,83212.0
+"Keown, Michelle Maria",Sch of Literature Languages & Culture,83032.0
+"Banks, Joseph Caxton",Faculty of Social Sciences & Humanities,82951.0
+"Knifton, Robert Harry",Sch of Fine Art History of Art&Cult Stud,82879.0
+"Haw, Kaye Frances",Sch of Education,82863.0
+"Harrison Moore, Abigail Louise",Sch of Fine Art History of Art&Cult Stud,82565.0
+"Wray, Alison Margaret",Sch of English Communication and Philos,82047.0
+"Forsyth, William Leslie",ESALA - Edinburgh Sch of Architect &Land,81975.0
+"Pedwell, Carolyn Elizabeth",School of Arts and Cultures,81614.0
+"Gregory, Dominic Ian",Philosophy,81566.0
+"Fisher, Fiona Elizabeth",Sch of Art and Design History,81272.0
+"Hurley, Ursula Kate",Sch of Arts & Media,81002.0
+"Matulis, Brett Sylvester","Sch of Geog, Geol & the Environment",80643.0
+"Findlay, Alison Gail",English and Creative Writing,80642.0
 "Coleman, Peter Georgiiy",School of Psychology,80499.0
-"Hettrick, Simon James",Sch of of Electronics and Computer Sci,80263.0
-"Channon, Andrew Amos",School of Social Sciences,80235.0
-"Buchs, Milena Mareike",School of Social Sciences,80168.0
-"Rutt, Harvey N",Optoelectronics Research Centre,79480.0
-"Nind, Melanie Anne",School of Education,78526.0
-"Berger, Yves Guy",Statistical Sciences Research institute,78334.0
-"Bartlett, Ruth Louise",Faculty of Health Sciences,74759.0
-"Tezera, Liku Bekele",Clinical and Experimental Sciences,74449.0
-"Blythe, Hazel Isobel",School of Psychology,74356.0
-"Gerding, Enrico Harm",Electronics and Computer Science,73891.0
-"Hutchinson, Aisha Jane",School of Social Sciences,72954.0
-"de Almeida, Gustavo Adolfo",Faculty of Engineering & the Environment,72179.0
+"Bedwell, Benjamin Daniel",School of Computer Science,80353.0
+"Mac Ionnrachtaigh, Feargal Eamonn","Sch of Arts, English and Languages",80334.0
+"Gordon-Nesbitt, Rebecca Joanne",Cultural Institute,80302.0
+"Parraman, Carinna Elizabeth",Fac of Arts Creative Ind and Education,80218.0
+"Southall, Humphrey Richard",Geography,80216.0
+"Johnston, Helen Louise",Social Sciences,80163.0
+"Mansell, James Gilbert","Sch of Cultures, Languages & Area Studie",80152.0
+"McMahon, Wendy Jayne","Art, Media and American Studies",80076.0
+"Milton-Edwards, Beverley Janette",Sch of Politics Int Stu and Philosophy,80047.0
+"Bradley, Laura Jennian",Sch of Literature Languages & Culture,80017.0
+"JEANNEROD, Dominique François",Sch of Modern Languages,80006.0
+"Higbee, William Edward",Modern Languages,80004.0
+"Oldfield, John Richard",History,79901.0
+"Douglas, G F",Cardiff Law School,79862.0
+"Sweet, Rosemary Helen",Sch of Historical Studies,79801.0
+"Hackney, Fiona Anne",Faculty of Arts,79430.0
+"Hughes, John James",School of Engineering,79349.0
+"Fisher, Jonathan Vincent",IDD,79158.0
+"Muers, Rachel Ellen",Sch of Theology & Religious Studies,79078.0
+"Smith, Laura Grace",Psychology,78942.0
+"Sylvester, Louise Miriam",Faculty of Social Sciences & Humanities,78925.0
+"Edwards, Lee Moya",Media and Communications,78174.0
+"Lewis, Simon George",Geography,77956.0
+"Allen, Lori A",Asian and Middle Eastern Studies,77905.0
+"Kehoe, Andrew Joseph",ADM Sch of English,77225.0
+"Munton, Alan Guy",Sch of Art & Media,76655.0
+"Green, Michael Murray","Fac of Arts, Design and Social Sciences",76634.0
+"Mondal, Anshuman Ahmed",Sch of Arts,75750.0
+"Sunikka-Blank, Minna Marjaana",Architecture,75350.0
+"Yee, Joyce S R","Fac of Arts, Design and Social Sciences",75140.0
+"Styles, John Anthony",Social Sciences Arts and Humanities RI,75079.0
+"Alexander, Claire Elice",Sociology,75057.0
+"Story, Alan Charles",Kent Law School,74880.0
+"Jones, Rhys Alwyn",Inst of Geography and Earth Sciences,74418.0
+"Dixon, Deborah Phyllis",School of Geographical & Earth Sciences,74179.0
+"Williamson, Beth Ann",School of Arts,74099.0
+"Harvey, Elizabeth Ruth",History,74034.0
+"Doonan, Roger Christopher",Archaeology,73547.0
+"Lawrence-Mathers, Anne Elizabeth",History,73295.0
+"Popple, Simon Edward",Institute of Communication Studies,73027.0
+"Paterson, Justin Lowe",London College of Music,72224.0
+"ffitch, John Peter",Computer Science,72148.0
+"Hoskins, Andrew David","Sch of Cultures, Languages & Area Studie",72100.0
+"Gallagher, Michael David",School of Geographical & Earth Sciences,71041.0
+"Durose, Catherine Elizabeth",INLOGOV,71032.0
+"James, Sarah Edith",Faculty of Arts and Humanities,70798.0
+"Pearson, Michael John",Theatre Film and Television Studies,70263.0
+"Tarte, Ségolène Marie",Oxford e-Research Centre,69931.0
+"Bowen, Huw Vaughan",School of Arts and Humanities,69757.0
 "Clarke, Catherine A",School of Humanities,69590.0
+"Newbury, Darren Mark",ADM Visual Communication,69585.0
+"Heffernan, Michael John",Sch of Geography,69506.0
+"Dennis, Flora Marian","Sch of History, Art History & Philosophy",69471.0
+"Bottoms, Stephen James",Arts Languages and Cultures,69177.0
+"Campbell, Emma Elizabeth",French Studies,68592.0
 "Roe, Emma Jane",School of Geography,68527.0
-"Chipperfield, Andrew John",Faculty of Engineering & the Environment,65932.0
-"Cox, Simon James",Faculty of Engineering & the Environment,62536.0
-"Moore, Christopher Mark",Unlisted,62498.0
-"Howls, Christopher John",School of Mathematics,61276.0
-"Webb, Elizabeth Alice",School of Social Sciences,53666.0
-"Blainey, Simon Philip",Faculty of Engineering & the Environment,52788.0
-"Dumont, Marc Gregory",Sch of Biological Sciences,52390.0
-"Peacock, Caroline Louise",School of Ocean and Earth Science,52110.0
-"Williamson, Philip Thomas",Sch of Biological Sciences,51797.0
-"Muxworthy, Adrian Richard",School of Ocean and Earth Science,49523.0
-"Atkinson, Peter Michael",School of Geography,49005.0
-"Hamilton, Andrew Raymond",Faculty of Engineering & the Environment,48908.0
-"Dawson, Terence Peter",School of Geography,47947.0
-"Roberts, Gareth James",School of Geography,41265.0
-"Clark, Michael Jeremy",School of Geography,40960.0
-"Gernon, Thomas Michael",School of Ocean and Earth Science,40364.0
-"Spearing, Simon Mark",School of Geography,40000.0
-"Nucinkis, Brita Erna",School of Mathematics,38762.0
+"Bravo, Michael Trevor",Scott Polar Research Institute,68435.0
+"Chrisman, Matthew Tate",Sch of Philosophy Psychology & Language,68158.0
+"Molloy, Seán Patrick",Sch of Social and Political Science,68120.0
+"Cockin, Katharine Mary",English,67730.0
+"Morkot, Robert George",Archaeology,67105.0
+"Harris, James Anthony",Philos Anthrop and Film Studies,66935.0
+"Costambeys, Marios James",Sch of History,66876.0
+"Potter, Matthew Charles","Fac of Arts, Design and Social Sciences",66869.0
+"Jaeger, Peter Cyril",English and Creative Writing,66725.0
+"Barker, Elton Thomas",Classics Faculty,66724.0
+"Pike, Mark Andrew",Sch of Education,66037.0
+"McManus, Clare Margaret","Drama, Theatre and Performance",65876.0
+"Toulson, Edwin Robert",Fac of Arts Law and Social Sciences,64159.0
+"Roesner-Lagao, David Philip",Drama,64072.0
+"Sleigh, Charlotte Lydia",Sch of History,63932.0
+"Downing, Niamh Catherine",The School of Writing and Journalism,63828.0
+"Gearon, Liam Francis",Unlisted,63788.0
+"Leggott, James Edward","Fac of Arts, Design and Social Sciences",63742.0
+"Smith, Martin James",School of Humanities,63515.0
+"Seligmann, Matthew Simeon",School of Social Science,63346.0
+"Banks, Sarah Jane",School of Applied Social Sciences,63224.0
+"Greenbank, Kevin Mark",Asian and Middle Eastern Studies,63023.0
+"Harrison, Peter Duncan",Theology and Religion Faculty,62606.0
+"Chapman, Jane Louise",College of Arts,61833.0
+"Child, Timothy William",Philosophy,61758.0
+"Wilson, James George",SLMS Research Support Centre,61733.0
+"Lockley, Timothy James",History,61437.0
+"Crosby, Henrietta Kate Kate",Study of Religions,61143.0
+"Escolme, Bridget Mary",Drama,61050.0
+"Wright, Alison Jane",History of Art,61050.0
+"Owens, Alastair John",Geography,61036.0
+"Marsh, Benjamin John",History and Politics,60996.0
+"Makovicky, Nicolette Milota",Area Studies,60797.0
+"Bucknall, Joanna Jayne",English Drama American and Canadian Stu,60398.0
+"Pettitt, Clare Jane",English Language and Literature,60250.0
+"Woods, Abigail Louise","Humanities - Ctr for History of Sci, Tec",60250.0
+"Swords, Jon Gabriel",Fac of Engineering and Environment,60152.0
+"Bowden, William Alexander",Sch of Humanities,60148.0
+"Wilson, Scott David",Languages  Cultures  Art History & Music,60100.0
+"Bates, Victoria Louise",School of Humanities,59375.0
+"Finch, Helen Cleugh",School of Modern Languages and Cultures,59322.0
+"Mahlberg, Michaela Agnes",English Drama American and Canadian Stu,59236.0
+"Brookshaw, Dominic Parviz",Arts Languages and Cultures,59150.0
+"Loudon, Gareth Hugh",Cardiff School of Art and Design,59000.0
+"Kennedy, Helen Wendy",School of Media,58805.0
+"Mellor, David Alan","Sch of History, Art History & Philosophy",58696.0
+"Lloyd, Sarah Victoria",Social Sciences Arts and Humanities RI,58007.0
+"Jones, Mari Catrin",French,57531.0
+"Petrie, Cameron Andrew",Archaeology,57264.0
+"Medhurst, James Lynton",Theatre Film and Television Studies,57218.0
+"Robb, David George",Sch of Modern Languages,57130.0
+"Goodman, Michael Simon",War Studies,56905.0
+"Smyth, Karen Elaine","Literature, Drama and Creative Writing",56903.0
+"Moon, Antonia Jane",Director of Scholarship and Collections,56530.0
+"Hughson, John Ewing",Sch of Sport Tourism and the Outdoors,55733.0
+"Nkiko, Cedric Marvin",Online Learning,55312.0
+"Hammer, Martin Anthony",Edinburgh College of Art,55146.0
+"Hunter, Victoria Margaret",Sch of Performance & Cultural Industries,55146.0
+"Simpson, Patricia Anne",Social Sciences Arts and Humanities RI,55146.0
+"Weedon, Christine Mary",Sch of English Communication and Philos,55050.0
+"Clough, Paul David",Information School,55050.0
+"McCardle, John Richard",Loughborough Design School,55050.0
+"Prettejohn, Elizabeth Francesca",School of Humanities,55050.0
+"Mills, James Henry",History,54577.0
+"Hamilton, Cynthia Ann",Faculty of Arts and Humanities,54433.0
+"Galt, Rosalind Ann","Sch of Media, Film and Music",54312.0
+"Messer, Neil Gavin",Theology and Religious Studies,54250.0
+"Darvill, Timothy Charles",Faculty of Science and Technology,54250.0
+"Starkey, David John",History,54250.0
+"Mansfield, Nicholas Andrew",Sch of Education and Social Sciences,54250.0
+"Pollock, Venda Louise",School of Arts and Cultures,54250.0
+"Schaap, Andrew Willem",Politics,53655.0
+"Lorenz, Katharina Gisela",Classics,53491.0
+"White, Simon John","Faculty of Tech, Design and Environment",53489.0
+"Cuffy, Violet Vyline",Institute of Tourism Research,53426.0
+"Merriman, Peter Richard",Inst of Geography and Earth Sciences,53207.0
+"Kindersley, Nicola Dawn",History,53171.0
+"Power, Henry Charles",English,53011.0
+"Durose, Catherine Elizabeth",Politics and Public Policy,51670.0
+"Grabbe, Lester L",Humanities,51383.0
+"Wallace, David Mark",Philosophy,51351.0
+"Buckler, Alison Sarah","Faculty of Wellbg, Educ & Lang Sci(WELS)",51257.0
+"Pattison, George Linsley",Theology and Religion Faculty,51014.0
+"Reyland, Nicholas William",Faculty of Humanities & Social Sciences,50994.0
+"Milligan, Lizzi Okpevba",Education,50921.0
+"Bramwell, Richard John",Social Sciences,50641.0
+"Chitty, Andrew Edward","Sch of History, Art History & Philosophy",50396.0
+"Varley, Peter Justin",Napier University Business School,50266.0
+"Nevola, Fabrizio James","Faculty of Tech, Design and Environment",49963.0
+"Blackburn, Manuella Ruth",Faculty of Arts and Humanities,49679.0
+"Kennedy, David Gerard",English,49677.0
+"Dinter, Martin Tobias",Classics,49583.0
+"Ward, Susan Patricia",Research Support Office,48884.0
+"Mullany, Louise Jane",School of English,48702.0
+"Ryan, Maria Jacinta","Sch of Cultures, Languages & Area Studie",48641.0
+"Wilson, Jon Edward",History,48565.0
+"Grady, Monica Mary",Physical Sciences,48396.0
+"Cooke, Peter David",Arts Languages and Cultures,48291.0
+"Brownlee, Kimberley Lauren",Social Sciences,48257.0
+"JONES, Richard Luther",Sch of Historical Studies,48248.0
+"Ahmed, Rehana Sara",Sch of  Arts and Media,48062.0
+"Brown, Katherine Emily",School of Philosophy Theology & Religion,47985.0
+"Brotton, Jeremy Richard",English,47718.0
+"Boon, Timothy Martyn",Science Museum Research,46856.0
+"Wenell, Karen Judith",School of Philosophy Theology & Religion,46399.0
+"Noxolo, Patricia Elaine",Geography,46366.0
+"Lewis, Joanna Elizabeth",International History,45929.0
+"Blencowe, Claire Peta",Sociology,45521.0
+"Willneff, Elizabeth Anne",Sch of Design,45368.0
+"Mitchell, Rebecca N",English Drama American and Canadian Stu,45159.0
+"Grewal, Kiran Kaur",Sociology,44971.0
+"Jary, Mark John","Media, Culture and Language",44447.0
+"Meredith, Stephen Clive",Sch of Education and Social Sciences,44048.0
+"Brigstocke, Julian John",Sch of Geog Earth & Environ Sciences,43842.0
+"Griffiths, Katherine Sian",School of Modern Languages,43180.0
+"hillis, peter leslie",Education,42960.0
+"Dixon, Simon Neil","College of Soc Scien, Arts & Humanities",42351.0
+"Edwards, David N",Sch of Archaeology and Ancient History,42269.0
+"Gough, Kathleen Maguire",School of Culture & Creative Arts,41884.0
+"Foley, Michael Stewart",History,41813.0
+"Peacock, James Harvey",Inst for Humanities,41700.0
+"Maguire, Richard Charles",History,41639.0
+"Gardner, Andrew Niall",Institute of Archaeology,40978.0
+"Henderson, Ian Robert",Menzies Centre for Australian Studies,40978.0
+"Moore, James Robert",Inst of Historical Research,40978.0
+"Altehenger, Jennifer Elisabeth",History Faculty,40744.0
+"Bullock, Jamie Bryan",ADM Birmingham Conservatoire,40285.0
+"Flinders, Matthew Vincent",Politics,40165.0
+"Weir, Todd Hagman",Sch of History and Anthropology,40155.0
+"Walters, Andrew Thomas",Product Design and Development Research,39849.0
+"Rowett, Catherine Joanna",Philosophy,39847.0
+"Tallack, Douglas Graham","Sch of Cultures, Languages & Area Studie",39590.0
+"Hughes, Edward Dudley","Sch of Media, Film and Music",39385.0
+"Harvey, Louise Teresa",Sch of Education,39350.0
+"Hyde, Joseph Isambard",Sch of Music and the Performing Arts,39328.0
+"Newey, Katherine Mary",Drama,39188.0
+"Johnson-Jones, Erma Jean",Dance,39077.0
+"Kelly, Barbara Lucy",Inst for Humanities,39003.0
+"Matthews, Peter John",Applied Social Science,38941.0
+"Williams, Alastair John",Inst for Humanities,38790.0
+"Fillis, Ian Ronald",Marketing and Retail,38556.0
+"Wodehouse, Andrew James",Design Manufacture and Engineering Man,38444.0
+"Gordon-Nesbitt, Rebecca Joanne",Arts for Health,38427.0
+"Harwood, Tracy Gaynor",Faculty of Technology,38359.0
+"Oancea, Alis Elena",Education,38291.0
+"Wilson, Adrian Finlay",Sch of Philosophy,38241.0
+"Strickland, Matthew James",School of Humanities,38165.0
+"Edelman, Joshua Andrew",Faculty,38022.0
+"Clarke, James Alexander",Philosophy,37871.0
+"Chase, Malcolm Sherwin",School of History,37478.0
+"Piccini, Angela Ann",School of Arts,37306.0
+"Chapman, James Robert",History of Art and Film,36978.0
+"Kerswill, Paul Edward",Linguistics and English Language,36978.0
 "Clery, Emma Juliet",Faculty of Humanities,36978.0
+"Fitzgerald, Timothy Fellowes",Languages Cultures and Religions,36978.0
+"Fielding, Steven John",Sch of Politics & International Relation,36978.0
+"Colston, Belinda Jayne",School of Health and Social Care,36978.0
+"Hughes, Jeffrey Alan",Life Sciences,36978.0
+"Thomson, Alexander John",Sch of Literature Languages & Culture,36978.0
+"Barker, Martin John",Theatre Film and Television Studies,36978.0
+"Kappenberg, Claudia Maria","School of Art, Design and Media",36959.0
+"Fitch, Fabrice Julian",Research Office,36933.0
+"Conboy, Martin Dermot",Journalism Studies,36859.0
+"Butterfield, Ardis Ruth",English Language and Literature,36840.0
+"Hands, Joss Noel",Fac of Arts Law and Social Sciences,36471.0
+"Holroyd, Amy Twigger",Sch of Art and Design,36417.0
+"Willie, Rachel Judith",Sch of Humanities and Social Science,36379.0
+"Andrews, Kehinde Nkosi",ELSS Sch of Social Sciences,36338.0
+"Kurtz, Donna Carol",Oxford e-Research Centre,36305.0
+"Clarke, Michele Louise",Sch of Geography,36290.0
+"Hufnagel, Saskia Maria",Sch of Law,36273.0
+"Downing, Niamh Catherine",College of Social Sciences and Arts,36268.0
+"Watson, Nicola Jane",Faculty of Arts and Social Sci (FASS),36257.0
+"Leask, Nigel James",School of Critical Studies,36224.0
+"Burrows, George Edward","Sch of Art, Design and Performance",36212.0
+"Watson, Janet Constance","Sch of Languages, Cultures and Societies",36201.0
+"Freedman, Rosa Anne",Sch of Law,36200.0
+"Liggins, Andrea Mahala",School of Fine Art and Photography,36113.0
+"Marschner, Joanna Mary",Kensington Palace,36110.0
+"Garrington, Abigail Georgina",English Studies,36078.0
+"Hicks, Jonathan Edward",School of Arts and Cultures,36044.0
+"Rigby, Nigel Colin",Research,35993.0
+"Millard, Douglas John",Science Museum Research,35957.0
+"Farthing, Stephen Frederick",Research Management,35957.0
+"Dickinson, Patrick Leigh",College of Sciences,35930.0
+"Creasy, Matthew Henry",School of Critical Studies,35896.0
 "Nicholls, David Roy",Faculty of Humanities,35791.0
 "Whiting, Daniel James",School of Humanities,35771.0
+"Barber, Alexander William",Faculty of Arts and Social Sci (FASS),35703.0
+"Steinert, Johannes Dieter","Sch of Law, Social Sciences and Comm",35611.0
+"Skoulding, Zoë Catherine",College of Arts and Humanities,35548.0
+"Mein, Andrew Renton",Divinity,35520.0
+"Skinner, Quentin Robert",History,35422.0
+"Pringle, Reginald Denys","Sch of History, Archaeology & Religion",35339.0
+"Beaney, Michael Anthony",Philosophy,35337.0
+"Sowerby, Tracey Amanda",History Faculty,35329.0
+"O Baoill, Donall P.","Sch of Arts, English and Languages",35312.0
+"Brownlee, Kimberley Lauren",Philosophy,35257.0
+"Gearon, Liam Francis",Education,35237.0
+"Grant, Susan-Mary Cunningham",Historical Studies,35103.0
+"Williams, Andrew David",Philosophy,35050.0
+"Leslie, Esther Rose","English, Theatre and Creative Writing",34824.0
+"White, Gregor Duncan",Sch of Arts Media and Computer Games,34810.0
+"White, Nicholas James",French,34703.0
+"Harris, Rachel Andromache",Music,34632.0
+"Williams, Caroline Anne",School of Modern Languages,34622.0
 "Orr, Mary Margaret",Faculty of Humanities,34613.0
+"Robinson, Robb Norman",History,34568.0
+"Harris, Andrew James",Geography,34566.0
+"Weiler, Bjorn Klaus Udo",History and Welsh History,34463.0
+"Marsden, Heather Lynn",Language and Linguistic Science,34434.0
+"Schultze-Berndt, Eva Friederike",Arts Languages and Cultures,34369.0
+"Hicks, Jonathan Edward",Music,34144.0
 "Middleton, Peter Leigh",Faculty of Humanities,34121.0
-"campbell, ian mortimer",Faculty of Engineering & the Environment,30440.0
+"Bailey, Douglass W","Sch of History, Archaeology & Religion",34043.0
+"Larvor, Brendan Philip",Social Sciences Arts and Humanities RI,33922.0
+"Harrison, Stephen Hugh",School of Humanities,33906.0
+"Rogers, Andrew Paul",Humanities,33788.0
+"Divall, Colin Michael",National Railway Museum Research,33730.0
+"O'Sullivan, Deirdre Mary",Sch of Archaeology and Ancient History,33698.0
+"Gledhill, Christine Ann",Arts and Design,33652.0
+"Read, Peter Francis",Sch of European Culture and Languages,33557.0
+"Lambert, Catherine Ruth",Sociology,33532.0
+"Beverley, Katharine Jane",Product Design and Development Research,33384.0
+"Messenger Davies, Maire J",School of Media Film and Journalism,33372.0
+"Johnston, Colin Peter",Philosophy,33368.0
+"Cole, A M",School of Modern Languages,33295.0
+"Baines, Paul Timothy",English,33267.0
+"Tomlin, Elizabeth Jane",English Drama American and Canadian Stu,33140.0
+"Brooks, William Sydney","Politics, Languages and Int Studies",33106.0
+"Langslow, David Richard",Arts Languages and Cultures,33067.0
+"Reisz, Emma Georgiana","Sch of Hist, Anthrop, Philos & Politics",32867.0
+"Omoniyi, Babatunde Omotope","Drama, Theatre and Performance",32848.0
+"Wood, Ian Nicholas",School of History,32827.0
+"Taylor-Jones, Kate Elizabeth",Sch of Creative Studies and Media,32786.0
+"Jones, Ian Rees",Sch of Social Sciences,32581.0
+"Hale, Alex G",Survey and Recording,32556.0
+"Vis, Farida Aletta",Information School,32522.0
+"Hosfield, Robert Tyldesley",Archaeology,32521.0
+"Elliott, Eva Brit",Sch of Social Sciences,32475.0
+"Tyler, Elizabeth Muir",English and Related Literature,32182.0
+"Gaule, Scott Grahame",Psychology,32172.0
+"Parry, Katy Jane",School of Media & Communication,32155.0
+"Siebers, Johan Isaac",Sch of Language Lit and Int Studies,32151.0
+"Gibson, Stephen Robert","Fac of Arts, Design and Social Sciences",32147.0
+"Ma, John Ta-chiang",Classics Faculty,32144.0
+"Garrod, Brian John",Sch of Management and Business,32135.0
+"Macpherson, Hannah Mary",Sch of Environment and Technology,31970.0
+"Sowden, Thomas George",Faculty of Creative Arts,31957.0
+"Haston, Elspeth Margaret",Royal Botanic Garden Edinburgh,31947.0
+"Cotterrell, David Roger",Faculty of Arts Computing Eng and Sci,31912.0
+"Forty, John Adrian",Bartlett Sch of Architecture,31888.0
+"Sleeman, Alison Joy",Slade School of Fine Art,31845.0
+"Dennison, Stephanie Rhona",School of Modern Languages and Cultures,31843.0
+"Hodgkin, Katharine Delia",Humanities and Social Sciences,31834.0
+"Pattenden, Rosemary Diana",Law,31767.0
+"Frith, Lucy Jane",Institute of Psychology Health & Society,31760.0
+"Evans, Graeme Lorenzo",Sch of Engineering and Design,31734.0
+"O'Mara, Veronica Margaret",Humanities,31690.0
+"Kirk, Elizabeth A.",Law School,31677.0
+"Thompson, Geoffrey Richard",English,31677.0
+"Woods, Abigail Louise",History,31672.0
+"Porter, Susan Mary",Sch for Policy Studies,31642.0
+"Duffield, Nigel Gordon",English,31601.0
+"Malmkjaer, Kirsten Suzanne",Sch of Modern Languages,31555.0
+"Kolkowski, Aleksander Javier",Science Museum Research,31492.0
+"Holman, Peter Kenneth",Sch of Music,31370.0
+"Avgouleas, Emilios E",Law,31368.0
+"Ellison, Louise Elaine",Law,31307.0
+"Beaumont, Paul Reid",Law,31281.0
+"Manor, James Gilmore",School of Advanced Study,31201.0
+"Philpott, William James",War Studies,31114.0
+"Goodson, Lisa Jane",Institute of Applied Social Sciences,30935.0
+"Burnett, Mark Thornton","Sch of Arts, English and Languages",30850.0
+"Smith, Christopher John",Sch of Classics,30614.0
+"Foot, John Mackintosh",Italian,30590.0
+"Bayne, Timothy John",Social Sciences,30589.0
+"Minkowski, Christopher Zand",Oriental Institute,30422.0
+"Adams, Marilyn McCord",Theology and Religion Faculty,30371.0
+"Maiolo, Joseph Anthony",War Studies,30360.0
 "Neill, Alexander Dudley",Faculty of Humanities,30230.0
-"Maccarone, Thomas Joseph",School of Physics and Astronomy,28897.0
-"Baumberg, Jeremy John",School of Physics and Astronomy,28324.0
+"Wasson, Sara Patricia",English and Creative Writing,30218.0
+"Lloyd, Howell Arnold",History,30133.0
+"McClain, Aleksandra Noel",Archaeology,30069.0
+"Bell, Derek Robert",Geography Politics and Sociology,30041.0
+"Mitchell, Richard James","College of Medical, Veterinary &Life Sci",30039.0
+"Lacey, Katharine Elizabeth","Sch of Media, Film and Music",29969.0
+"Whiteley, Nigel Steven",Lancaster Inst for the Contemporary Arts,29837.0
+"Cowgill, Rachel Elizabeth",Sch of Music,29820.0
+"Hudson, John Geoffrey",History,29780.0
+"Bamji, Alexandra Elizabeth",School of History,29749.0
+"Law, David Richard",Arts Languages and Cultures,29691.0
+"Bentley, Michael John",History,29654.0
+"Fraser, Rebecca Jane","Art, Media and American Studies",29583.0
+"Roberts, Benjamin Lawrence","Sch of Media, Film and Music",29550.0
+"Tomlin, Elizabeth Jane",School of Culture & Creative Arts,29390.0
+"Jones, Peter Michael",History and Cultures,29182.0
+"Scott, Leonard Victor",International Politics,29061.0
+"Brown, Anthony David",Sch of English,28911.0
+"Buchanan, Alexandrina Caroline","Sch of Histories, Lanuages and Cultures",28716.0
+"Torres, Isabel Marie",Sch of Modern Languages,28712.0
+"Zarrilli, Phillip Barry",Drama,28618.0
+"Finnerty, Paraic Martin",Faculty of Humanities & Social Sciences,28506.0
+"Farrant, Timothy John",Medieval & Modern Languages Fac,28453.0
+"Haines, Brigid Anne",School of Arts and Humanities,28440.0
+"Fiddler, Allyson Lesley",Languages and Cultures,28388.0
+"Coleman, Julie Margaret",English,28356.0
 "Head, Matthew William",Faculty of Humanities,28242.0
-"Atkinson, John Karl",Faculty of Engineering & the Environment,27753.0
+"Stock, Kathleen Mary","Sch of History, Art History & Philosophy",28235.0
+"Whittle, Jane Catherine",History,28119.0
+"Howells, Christina Mary",Medieval & Modern Languages Fac,28103.0
+"Green, Roger Philip",School of Humanities,28101.0
+"Deane-Drummond, Celia Evangeline",Theology and Religious Studies,28075.0
+"Medina Ariza, Juan Jose",Law,28046.0
+"Nicholson, Steve John","Sch of English Lit, Lang and Linguistics",28002.0
+"Plock, Vike Martina",English,27953.0
+"Field, Douglas James",Faculty of Arts & Creative Technologies,27827.0
+"Lury, Karen Emelia",College of Arts,27684.0
+"Shankland, David Peter",School of Arts,27619.0
+"Smith, Mark Brian",School of History,27618.0
+"Rawes, Alan Leigh",Arts Languages and Cultures,27586.0
+"Wildman, Charlotte Elizabeth",Arts Languages and Cultures,27380.0
+"Schellekens Dammann, Anna Elisabeth",Philosophy,27342.0
 "Jowitt, Claire Elaine",Faculty of Humanities,27258.0
+"Schmetterling, Astrid Corinne",Visual Cultures,27225.0
+"Blake, Andrew John",Faculty of Arts,27225.0
+"Fowler, Christopher John",Historical Studies,27184.0
+"Parrott, David Arthur",History Faculty,27068.0
+"Franklin, Michael John",School of Arts and Humanities,27041.0
+"Malins, Julian Paul",Research and Enterprise Services,27030.0
+"Rice, Alan John",Unlisted,26957.0
+"Brown, David Stuart",History,26882.0
+"Buse, Peter Anthony",Unlisted,26844.0
+"Hobson, Marian Elizabeth",School of Languages Linguistics and Film,26795.0
+"Beckett, Ian Frederick",Sch of History,26777.0
+"Harvey, Karen Louise",History,26749.0
+"Tuck, Stephen George",Humanities Division,26674.0
+"Rock, Frances Eileen",Sch of English Communication and Philos,26672.0
+"claydon, anthony michael",History Welsh History and Archaeology,26652.0
+"O'Connor, Ralph James","School of Divinity, History and Philosop",26616.0
+"Waughray, Annapurna Deborah",Manchester Law School,26609.0
+"Smith, Barry Crawford",Philosophy,26546.0
+"Cavill, Paul Ross",School of History,26341.0
+"Snowdon, Paul Francis",Philosophy,26337.0
+"Johnstone, Andrew Edward",Sch of Historical Studies,26314.0
+"Ahonen, Pertti Tapio",History,26198.0
+"Feldman, David Maurice",History Classics and Archaeology,26150.0
+"Beattie, Christina Jane","Drama, Theatre and Performance",26132.0
+"Mackie, Penelope Jane",Philosophy,26085.0
+"King, Alasdair James",School of Languages Linguistics and Film,25953.0
+"Scott, Derek B",Sch of Music,25879.0
+"Burrows, Daron Lee",Languages Linguistics and Cultures,25877.0
+"Sargentson, Carolyn Jane",Research,25850.0
+"Carpenter, Sarah Margaret",Sch of Literature Languages & Culture,25808.0
+"Bispham, Edward Henry",Classics Faculty,25781.0
+"Pinder, David John",Geography,25774.0
+"Haycock, Marged Elizabeth",Welsh,25730.0
+"Turner, Lynn Justine",Visual Cultures,25699.0
+"Holmes, Catherine Joy",History Faculty,25680.0
+"Carter, Erica Anne",German Studies,25481.0
+"Cochrane, Claire Elizabeth",Inst of Humanities and Creative Arts,25480.0
+"Langer, Rita Elisabeth",School of Humanities,25459.0
+"Cooke, Peter David",Languages Linguistics and Cultures,25352.0
+"Muldrew, James Craig",History,25306.0
+"Davies, Douglas James",Theology and Religion,25301.0
+"Croenen, Godfried Luc",Modern Languages and Cultures,25272.0
+"Pohl, Nicole Barbara",Faculty of Humanities and Social Sci,25220.0
+"Davies, Jason Walford",Sch of Welsh,25180.0
+"Adams, Colin Edward",Archaeology Classics and Egyptology,25141.0
+"Bebbington, David William",History and Politics,25113.0
+"Villiers, Charlotte Louise",Law,25087.0
 "Kelly, Michael Howard",Faculty of Humanities,25063.0
+"Williams, Christopher Wesley",Medieval & Modern Languages Fac,25054.0
+"String, Tatiana Christine",School of Arts,24978.0
+"Burnett, Mark Thornton",Sch of English,24978.0
+"Jowitt, Claire Elaine",Humanities,24968.0
+"SMALL, Graeme Peter",School of Humanities,24928.0
+"Alston, Charlotte Lucy","Fac of Arts, Design and Social Sciences",24908.0
+"Hardwick, Lorna Patricia",Classical Studies,24888.0
+"Bray, Joseph David","Sch of English Lit, Lang and Linguistics",24879.0
+"Hayden, Sam Thomas","Sch of Media, Film and Music",24834.0
+"Nesi, Hilary Justine",Business Environment and Society,24779.0
+"Giles, Melanie Claire",Arts Languages and Cultures,24778.0
+"Tate, Gregory Paul",Sch of English,24747.0
+"Clarke, David Ian",School of Arts and Cultures,24741.0
+"Pritchard, Duncan Henry",Philosophy,24721.0
+"Forgacs, David Anthony",Italian,24674.0
+"Morus, Iwan Rhys",History and Welsh History,24628.0
+"Dotson, Brandon Bailey",Lang and Culture of China and Inner Asia,24612.0
+"Knight, Sarah Marie",English,24602.0
+"Whitehead, Mark James",Inst of Geography and Earth Sciences,24601.0
+"MacDonald, Katherine Margaret",French,24598.0
+"Gleave, Robert Martin",Arab and Islamic Studies,24591.0
+"Wood, Elizabeth Ann",Education,24578.0
+"Farrier, David Christopher",English,24558.0
+"Lumsden, Alison May",School of Language and Literature,24547.0
+"barnard, clio hope",Sch of Arts,24499.0
+"Pearson, Giles Benjamin",School of Arts,24460.0
+"Pye, Elizabeth Mary",Institute of Archaeology,24448.0
+"Bowen, Huw Vaughan",Sch of Historical Studies,24446.0
+"Segal, Naomi Dinah",Inst of Modern Languages Research,24432.0
+"Pollard, Alan Mark",School of Archaeology,24414.0
+"Jennings, Roslyn Elizabeth",Faculty of Media Art and Technology,24358.0
+"Price, Katy Emma",Fac of Arts Law and Social Sciences,24339.0
+"Hughes, John James",School of Science,24290.0
+"Garde-Hansen, Joanne Clare",Centre for Cultural Policy Studies,24248.0
+"Davis, Alexander Lee",Sch of English,24247.0
+"Hipkins, Danielle Elisabeth",Modern Languages Italian,24227.0
+"Barber, Alexander William",Philosophy,24179.0
+"Wilson, Janet Mary",Faculty of Education and Humanities,24175.0
+"Zimmerer, Juergen Karl",History,24146.0
+"Griffiths, Clare Victoria",History,24146.0
+"Peschel, Lisa Anne",Theatre Film and TV,24140.0
+"Everett, Anthony Julian",School of Arts,24129.0
+"Dodd, Jocelyn Ann",Museum Studies,24121.0
+"Manson, Neil Campbell",Politics Philosophy and Religion,24073.0
+"Keene, Suzanne Victoria",Institute of Archaeology,24061.0
 "Crow, Graham Paul",School of Social Sciences,24006.0
+"Battey, Nicholas Hugh",Sch of Biological Sciences,23997.0
+"McPherson, Andrew Palmer",Sch of Electronic Eng & Computer Science,23994.0
+"Alexander, Gavin Robert",English,23982.0
+"Williams, Dorothy Agnes",Business School,23974.0
+"Caballero, Chamion Maria",Fac of Arts and Human Sciences,23941.0
+"Mendelsohn, John Andrew","Humanities - Ctr for History of Sci, Tec",23919.0
+"Kent, Anthony Martin",London College of Communication,23914.0
+"Madden, Mary Teresa",School of Healthcare,23805.0
+"Bassett, Caroline Ann",English,23804.0
+"Dudley, Sandra Helen",Museum Studies,23789.0
+"Dipple, Kelli Robyn",Digital Programmes,23753.0
+"Greaves, Alan Michael",Archaeology Classics and Egyptology,23746.0
+"Naylor, Simon Keith",Geography,23740.0
+"Boughton, Zoe Collette",Modern Languages French,23698.0
+"Parvis, Sara Eleanor",Sch of Divinity,23689.0
+"Mackintosh, Fiona J.",Sch of Literature Languages & Culture,23689.0
 "Williams, Michael Thomas",Faculty of Humanities,23646.0
-"Lucas, Catherine Helen",School of Ocean and Earth Science,22061.0
+"Clarke, David John","Politics, Languages and Int Studies",23634.0
+"Hallam, Tudur Rhys",School of Arts and Humanities,23601.0
+"Ahnert, Thomas Jasper",History,23554.0
+"Whitehouse, Nicola Jane",Geography Archaeology and Palaeoecology,23544.0
+"Gordon, Robert Samuel",Italian,23534.0
+"Chalmers, James Peter",Sch of Law,23514.0
+"Williams, Howard Morgan",Archaeology,23461.0
+"Mason, Emma Jane",English and Comparative Literary Studies,23445.0
+"Sutherland, Thomas Robert",Lincoln School of Film and Media,23420.0
+"Doyle, Shane Declan",School of History,23417.0
+"Brown, Hilary Jane",School of Arts and Humanities,23404.0
+"Webb-Davies, Peredur Glyn","Sch of Language, Literature & Linguistic",23386.0
+"Gwilt, Ian David",Faculty of Arts Computing Eng and Sci,23180.0
+"Howkins, Alun John","Sch of History, Art History & Philosophy",23144.0
+"Archard, David William",Sch of Politics Int Stu and Philosophy,23103.0
+"Mitchell, Lynette Gail",Classics and Ancient History,23012.0
+"Beard, David Jason",Music,22917.0
+"Packham, Catherine Mary",Sch of English,22899.0
+"Bradley, Laura Jennian",Div of European Languages and Cultures,22853.0
+"Brundin, Abigail Sarah",Italian,22833.0
+"Kelly, Shona Jessie",Faculty of Health and Wellbeing,22794.0
+"Lubecker, Nikolaj d'Origny",School of Language and Literature,22790.0
+"Jones, David Houston",Modern Languages French,22759.0
+"Irvine, Susan Elizabeth",English Language and Literature,22751.0
+"Schwemer, Karl Friedrich",Lang an Cultures of Near and Middle East,22744.0
+"Foster, Graham Paul",Sch of Divinity,22726.0
+"Widdis, Emma Kathrine",Slavonic Studies,22722.0
+"Beresford, Andrew Martin",Modern Languages and Cultures,22698.0
+"Bowman, Glenn Walker",Sch of Anthropology & Conservation,22686.0
+"Jowett, Lorna Elizabeth",School of the Arts,22590.0
+"Newbury, Darren Mark",Unlisted,22572.0
+"Rubery, Matthew Christopher",School of English,22523.0
+"Wilson, Adrian Finlay",School of PRHS,22489.0
+"Day, Thomas Anthony",Sch of Journalism and Digital Comms,22444.0
+"Zalabardo, Jose Luis",Philosophy,22429.0
+"Desblache, Lucile Anne","Media, Culture and Language",22389.0
+"MacCormack, Patricia Anne",Fac of Arts Law and Social Sciences,22385.0
+"Jones, Evan Thomas",School of Humanities,22383.0
+"Smith, Mark Thomas",Unlisted,22347.0
+"Loveluck, Christopher Paul",Sch of Humanities,22271.0
+"Kiefer, Chris William","Sch of Media, Film and Music",22261.0
+"Harmon, Shawn H.",Sch of Law,22044.0
+"Eilan, Naomi Hannah",Philosophy,22015.0
+"Glen, Heather Joan",English,21976.0
+"Thompson, Nicholas James","School of Divinity, History and Philosop",21935.0
+"McDonnell, William Gerard","Sch of English Lit, Lang and Linguistics",21866.0
+"Timpson, Christopher Gordon",Sch of Philosophy,21784.0
+"Butler, Matthew John",Sch of Modern Languages,21691.0
+"Ahearne, Jeremy Neil",French Studies,21647.0
+"Kropp, Andreas Jacob",Classics,21571.0
+"Chapman, Robert William",Archaeology,21532.0
+"Lindsay, Claire Rachel",Spanish and Latin American Studies,21491.0
+"Hurtig, Kent Ingvar",Philosophy,21475.0
+"Giaquinto, Marcus Daniel",Philosophy,21233.0
+"Steward, Helen Catherine",Philosophy,21151.0
+"Bradley, Mark Alan",Classics,21101.0
+"Jones, Christopher David",School of Arts and Cultures,21088.0
+"Ord, Melanie Jane","Fac Creative Arts, Humanities & Education",20913.0
+"Sinanan, Kerry Eleanor","Fac Creative Arts, Humanities & Education",20913.0
+"O'Brien, Lucy Frances",Philosophy,20897.0
+"Cubitt, Catherine Rosalind",History,20825.0
+"Chapman, Henry Philip",History and Cultures,20679.0
+"Garratt, James Edmund",Arts Languages and Cultures,20665.0
+"Swallow, Deborah Anne",History of Art,20606.0
+"Newbury, Darren Mark",ADM Art,20525.0
+"Griffiths, Katherine Sian",Sch of Modern Languages,20442.0
+"Hammill, Faye Louise",Sch of English Communication and Philos,20427.0
+"Szreter, Simon Richard",History and Philosophy Of Science,20397.0
+"Townend, Matthew Owen",English and Related Literature,20380.0
+"Moore, James Robert",Sch of Historical Studies,20379.0
+"Burnstock, Aviva Ruth",Conservation & Technology,20338.0
 "McGhee, Derek Peter",School of Social Sciences,20241.0
-"Madise, Nyovani Janet",School of Social Sciences,18540.0
-"Coe, Malcolm John",School of Physics and Astronomy,16194.0
+"Prag, Jonathan Ralph",Classics Faculty,20178.0
+"Riley, Christopher Andrew",Law,20129.0
+"Odle, Robert James",Greenwich Research and Enterprise Office,20106.0
+"Gilbert, Jane Louise",French,20095.0
+"Horrocks, Sally Margaret",Sch of Historical Studies,20094.0
+"Gillespie, Alisdair Allan",Leicester De Montfort Law School,20005.0
+"Johnston, Alan Thomas",School of Art,19920.0
+"Hewitt, Steven Roy",English Drama American and Canadian Stu,19915.0
+"Sorensen, Marie Louise",Archaeology,19880.0
+"Sermon, Paul Sylvester",Centre for Research & Development (Arts),19871.0
+"Morris, Richard Keith",Sch of Music Humanities & Media,19804.0
+"Evans, Graeme Lorenzo",School of Art and Design,19750.0
+"Baker, Naomi Sylvia",Arts Languages and Cultures,19733.0
+"Waddington, David Peter",Faculty of Arts Computing Eng and Sci,19703.0
+"Mendus, Susan Lesley",Politics,19465.0
+"Kirk, John Monfries",Sch of English,19384.0
+"Friend, Melanie Anne","Sch of Media, Film and Music",19272.0
+"Hastings, Annette Linn",School of Social & Political Sciences,19225.0
+"Spencer, Graham Philip",School of Creative Arts Film and Media,18888.0
+"Ashford, Elizabeth Jane",Philos Anthrop and Film Studies,18777.0
+"McDonald, Ronan Daniel",English Literature,18749.0
+"Moss, Michael Stanley",School of Humanities,18606.0
+"Ramsay, Gordon Philip",School of English,18606.0
+"Robinson, Simon John",Carnegie Faculty,18606.0
+"Brockington, Grace Ellen",School of Arts,18606.0
+"Prettejohn, Elizabeth Francesca",History of Art,18553.0
+"Frood, Elizabeth Anne",Oriental Institute,18392.0
+"Newby, Zahra Louise",Classics & Ancient History,18189.0
+"Avery, Victoria Jane",History of Art,18189.0
+"Rupprecht, Anita Jacqueline",Sch of Humanities,18104.0
+"Greenwood, Emily Jane",Sch of Classics,18046.0
+"Kinchin, Juliet Lilla",School of Culture & Creative Arts,18000.0
+"Matthews, Gethin Hugh",School of Arts and Humanities,17954.0
+"Fitch, Fabrice Julian",Music,17951.0
+"Roberts, Celia Mary",Sociology,17907.0
+"Stephenson, David Owen",Institute of Applied Social Sciences,17756.0
+"O'Byrne, Alison Frances",English and Related Literature,17616.0
+"Wake, Paul Francis",English,17523.0
+"Petts, David Andrew",Archaeology,17278.0
+"Sanson, Helena Louise",Italian,17070.0
+"Lang, Anouk Elise",English,16982.0
+"Stanton, Timothy Arthur",Politics,16964.0
+"Harwood, Tracy Gaynor",School of Media and Communication,16706.0
+"Skilton, David John",Sch of English Communication and Philos,16615.0
+"eastwood, steven john",Humanities and Social Sciences,16426.0
+"Nicolls, Sarah Louise",Sch of Arts,16425.0
+"Seddon, Peter John","School of Art, Design and Media",16385.0
+"Burnett, Kathryn Anne",School of Creative & Cultural Industries,16355.0
+"Barry, Elizabeth Claire",English and Comparative Literary Studies,16322.0
+"Jones, Ruth Louisa",Faculty of Creative Arts,16249.0
+"Thurston, Scott Douglas","Sch of Humanities, Lang & Social Science",16239.0
+"Amos, Martyn Richard",Fac of Engineering and Environment,16161.0
+"Howard, David M",Electronics,16106.0
+"Kelly, Debra Joanne","Sch of Social Sci, Humanities & Language",16092.0
+"Tallack, Douglas Graham",Sch of Historical Studies,16081.0
+"Bottoms, Stephen James",Unlisted,15994.0
+"Pierse, Simon John",Sch of Art,15951.0
+"Schenk, Franziska Maria",Unlisted,15763.0
+"Eley, Penelope Anne",French,15752.0
+"Stapleton, Paul Jay","Sch of Art, Design and Performance",15724.0
+"Cowan, Andrew John","Literature, Drama and Creative Writing",15657.0
+"Preston-Dunlop, Valerie Morthland",Dance,15542.0
+"Barlow, Christopher Andrew",Faculty of Technology,15529.0
+"Walsh, Robert William",Research & Innovation Office,15422.0
+"Reid, Peter H",School of Creative and Cultural Business,15302.0
+"Gregory, Andrew David",Science and Technology Studies,15301.0
+"Haynes, Rebecca Ann",School of Slavonic & East European Studi,15301.0
+"Stevenson, Christine McKee",The Secretary or registrar,15301.0
+"Van Wees, Johannes Gerardus",History,15301.0
+"Smith, Adam Inness",History,15301.0
+"Turner, Mark W",English Language and Literature,15301.0
+"Stewart, Michael Sinclair",Anthropology,15301.0
+"Downing, Lisa Michelle",School of Languages Linguistics and Film,15301.0
+"Beck, Peter James",Sch of Humanities,15301.0
+"Oliver, Peter C",Dickson Poon School of Law Departments,15301.0
+"Lewis, Andrew Paul",Sch of Music,15132.0
+"Thomson, Jonathan Robert",Slade School of Fine Art,15031.0
 "Sofaer, Joanna Rachel",Faculty of Humanities,14628.0
+"Richardson, Philip David",History,14331.0
+"Logan, Anne Frances",Sch of Social Pol Sociology & Social Res,14291.0
+"Carty, Hazel Frances",Law,14230.0
+"BANKS, MARK OLIVER",Sociology,14175.0
+"Morrison, Andrew Donald",Arts Languages and Cultures,14013.0
+"Kitson, Peter John",English,14013.0
+"Hall, Sheldon Tait",Faculty of Arts Computing Eng and Sci,14013.0
+"Bennett, Andrew John",School of Arts,14013.0
+"Richardson, Sarah Ann",History,14013.0
+"Cowling, David John",Modern Languages and Cultures,14013.0
+"Chase, Malcolm Sherwin",Sch of Continuing Education,14013.0
+"AIRD, William Morton","Sch of History, Archaeology & Religion",14013.0
+"Reed, Esther Dora",Sch of Divinity,14013.0
+"Harman, Peter M",History,14013.0
 "Bernard, George William",Unlisted,14013.0
-"Nixon, Mark S",Electronics and Computer Science,13022.0
-"Potts, Christopher Nigel",School of Mathematics,10327.0
-"Niblo, Graham Andrew",School of Mathematics,6204.0
-"King, Stephen Frederick",School of Physics and Astronomy,5061.0
-"Wilson, Dean James",School of Ocean and Earth Science,4660.0
+"Pollard, Carl Joshua",School of Arts,14013.0
+"Hayward, Paul Antony",History,14013.0
+"Hopkin, David Matthew",History Faculty,14013.0
+"Hodkinson, Stephen John",Classics,14013.0
+"Brady, Michael Sean",School of Humanities,14013.0
+"Nicholson, Paul Thomas","Sch of History, Archaeology & Religion",14013.0
+"Harrison, Keith Jonathan",Bath School of Art and Design,13383.0
+"Crumey, Andrew David","School of English Literature,Language an",13224.0
+"Abba, Thomas William",Faculty of Creative Arts,13202.0
+"King, Michael Ralph",Art Media and Design,12951.0
+"Hailwood, Simon Andrew",Philosophy,12919.0
+"Doe, Christopher Norman",Cardiff Law School,12862.0
+"Flynn, William Thomas",Institute for Medieval Studies,12774.0
+"Spencer-Longhurst, Paul Stanley",Languages  Cultures  Art History & Music,12730.0
+"Dyer, Christopher Charles",Sch of Historical Studies,12571.0
+"Dowdeswell, Julian Andrew",Scott Polar Research Institute,12462.0
+"Shah, Sonali Laxmi",Sociology & Social Policy,12422.0
+"Sparke, Penny Anne",Sch of Design,12376.0
+"Jones, Peter Nigel",Geography Politics and Sociology,12372.0
+"de Vivo, Filippo Luciano",History Classics and Archaeology,12266.0
+"Howle, Timothy Julian",Scarborough School of Arts and New Media,12220.0
+"Miles, Malcolm Francis",Unlisted,12218.0
+"Ell, Paul Spencer",Geography Archaeology and Palaeoecology,12214.0
+"Haour, Anne Claire",Sainsbury Centre for Visual Arts,12198.0
+"morrow, Ruth ellen",Sch of Art & Design,12046.0
+"Cooper, Tarnya Helen",Curators,11992.0
+"Forsyth, Katherine Stuart",School of Humanities,11889.0
+"Horne, Francis Philip",English Language and Literature,11476.0
+"Trapp, Michael Burney",Classics,11476.0
+"Collins, Hugh Graham",Law,11476.0
+"Roueche, Charlotte Mary",Digital Humanities,11458.0
+"Kerswill, Paul Edward",Language and Linguistic Science,11261.0
+"Robinson, Paul Finlay",Politics and International Studies,10863.0
+"Henry, Alison Margaret",Sch of Communication,10735.0
+"Young, Christopher John",Mining Engineering,10510.0
+"Lisboa, Maria Manuel",Spanish and Portuguese,10510.0
+"Liddy, Christian Drummond",History,10510.0
+"Powell, Carolyn Anna",English,10510.0
+"Roodhouse, Mark Cardwell",History,10510.0
+"Walker, Ian Christopher",Sch of Art Media and Design,10510.0
+"Ledgeway, Adam Noel",Modern & Medieval Languages,10510.0
+"Lebeau, Vicky Ann",Sch of English,10510.0
+"Gibson, Johanna Emelie",Centre for Commercial Law Studies,10445.0
+"Terras, Melissa Mhairi",Information Studies,10139.0
+"lok, susan pui san",School of Media and Performing Arts,10000.0
+"Jankowsky, Richard Charles",Music,9996.0
+"Holt, Maria Christine","Sch of Social Sci, Humanities & Language",9945.0
+"Potter, Matthew Charles",History of Art and Film,9798.0
+"Carr, Chris Michael",Arts Languages and Cultures,9776.0
+"Bell, Martin Guy",Archaeology,9653.0
+"Carr, Chris Michael",Materials,9653.0
+"Mytum, Harold Clive",Archaeology,9190.0
+"Edwards, Paul Eric",Sch of English and Creative Studies,9055.0
+"Tinker, Christopher George",Sch of Management and Languages,8853.0
+"Croft, Paul John",Sch of Art,8126.0
+"Baek, Eun Kyong",School of Design,7611.0
+"Stanfield, Peter Francis",Sch of Arts,7498.0
+"Carman, Richard John",History and Cultures,7446.0
+"Seabourne, Gwen Caroline",Law,6204.0
+"Highmore, Ben John",Faculty of Creative Arts,5806.0
+"Cullinane, Michael Patrick",Humanities,5796.0
+"Tavernor, Robert William",Sociology,5663.0
+"Green, David Ralph",Geography,5663.0
+"Shillito, Ann Marie",Research Department,4981.0
+"Ewu, Jumai Rachel",School of the Arts,4960.0
+"Hayden, Sam Thomas",Music,4380.0
+"Roesner-Lagao, David Philip",Sch of Arts,4262.0
+"Babbage, Frances Helen","Sch of English Lit, Lang and Linguistics",1363.0
+"Brooker, Peter John",Sch of English,0.0
+"Cormier, Kearsy Annette",Human Communication Science,0.0
