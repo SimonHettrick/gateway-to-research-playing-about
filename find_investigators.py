@@ -34,7 +34,7 @@ def export_to_csv(df, location, filename, index_write):
 def limit_ten_records(df):
 
     # Cut to the first 10 rows to keep things simple when testing how this works out
-    df=df[:2]
+    df=df[:50]
 
     return df
 
@@ -67,7 +67,6 @@ def get_investigators(dict_links):
         current_grant={}
         # See Example person roles xml.txt for info on this
         for investigator_section in current_page.find('gtr:personroles'):
-            current_person ={}
             id = investigator_section.find('gtr:id').text
             firstname =  investigator_section.find('gtr:firstname').text
             print(firstname)
@@ -78,33 +77,25 @@ def get_investigators(dict_links):
                 pass
             surname = investigator_section.find('gtr:surname').text
             role = investigator_section.find('gtr:role').text
+            person_url = 'https://gtr.ukri.org/person/' + id
 
-            current_person['firstname'] = firstname
-            current_person['othernames'] = othernames
-            current_person['surname'] = surname
-            current_person['role'] = role
 
-            current_grant[id] = current_person
-
-            current_grant_series = pd.Series([grant_ref, id, firstname, othernames, surname, role],
-                                             index=['grant ref', 'id', 'firstname', 'othernames', 'surname', 'role'])
+            current_grant_series = pd.Series([grant_ref, firstname, othernames, surname, role, id, person_url],
+                                             index=['grant ref', 'firstname', 'othernames', 'surname', 'role', 'id', 'person_url'])
             all_investigators_df = all_investigators_df.append(current_grant_series, ignore_index=True)
 
-
-        all_investigators[grant_ref] = current_grant
         return all_investigators_df
 
     #url = 'https://gtr.ukri.org/projects?ref=AH/M010163/1'
 
-    all_investigators = {}
-    all_investigators_df = pd.DataFrame(columns=['grant ref', 'id', 'firstname', 'othernames', 'surname', 'role'] )
+    all_investigators_df = pd.DataFrame(columns=['grant ref', 'firstname', 'othernames', 'surname', 'role', 'id', 'person_url'])
 
     for key in dict_links:
         all_investigators_df = parse_grant(dict_links[key], all_investigators_df)
 
     print(all_investigators_df)
 
-    return all_investigators
+    return all_investigators_df
 
 
 def main():
@@ -118,8 +109,8 @@ def main():
 
     dict_links = get_links(df)
 
-    all_investigators = get_investigators(dict_links)
-
+    all_investigators_df = get_investigators(dict_links)
+    export_to_csv(all_investigators_df, 'output/', 'all_investigators', False)
 
 if __name__ == '__main__':
     main()
